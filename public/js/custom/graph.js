@@ -1,6 +1,6 @@
 var app = {};
   
-app.fill = d3.scale.category20().range(["#ffa20f","#96ff09","#ff5c77", "#5469e2", "#efef18", "#690093"]);
+app.fill = d3.scale.category20().range(["#ffa20f","#96ff09","#ff5c77", "#5469e2", "#efef18", "#9b6dcc"]);
 
 app.renderCloud = function(data) {
   app.items = data.children[0];  
@@ -28,9 +28,9 @@ app.renderCloud = function(data) {
 };
 
 app.showContents = function(item){
-    var key = item.attr('id');
-    var color = item.attr('color');
-    console.log(item);
+  var key = item.attr('id');
+  var color = item.attr('color');
+
   var tagItems = app.items[key];
   var count = tagItems.length;
   
@@ -40,12 +40,10 @@ app.showContents = function(item){
   for(var i in tagItems) {
     item = tagItems[i];
     
-    if(item.type === 'do'){
-      item.type = 'idea';
-    }
-    
     var string = '';
     if(item.type) {
+    
+
       string += '<span class="type">' + (item.type).toUpperCase() + "</span>";
     }
     string += item.statement;

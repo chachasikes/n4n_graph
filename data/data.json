@@ -3,7 +3,7 @@
     {
     
       "statement" : "37 years of marine mammal data",
-      "type" : null,
+      "type" : "have",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : 1,
@@ -16,7 +16,7 @@
     {
     
       "statement" : "ocean trash data and its negative effects on animals",
-      "type" : null,
+      "type" : "have",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -29,7 +29,7 @@
     {
     
       "statement" : "Easy guide to show simple environmental choices",
-      "type" : null,
+      "type" : "idea",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -42,7 +42,7 @@
     {
     
       "statement" : "Ladder of engagement to get youth involved in environmental actions",
-      "type" : null,
+      "type" : "want",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -55,7 +55,7 @@
     {
     
       "statement" : "Easy guidesfor best practices with waste disposal",
-      "type" : null,
+      "type" : "want",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -68,7 +68,7 @@
     {
     
       "statement" : "app to allow for easy determination of trash, recycle, compost",
-      "type" : null,
+      "type" : "idea",
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -81,7 +81,7 @@
     {
     
       "statement" : "experience teaching kids to code",
-      "type" : null,
+      "type" : "have",
       "name" : "Alison Beezy",
       "organization" : null,
       "featured" : null,
@@ -94,7 +94,7 @@
     {
     
       "statement" : "web development skillz",
-      "type" : null,
+      "type" : "have",
       "name" : "Alison Beezy",
       "organization" : null,
       "featured" : null,
@@ -107,7 +107,7 @@
     {
     
       "statement" : "network of technologists and designers interested in data collection and mapping",
-      "type" : null,
+      "type" : "have",
       "name" : "Beth Schechter ",
       "organization" : "Stamen",
       "featured" : null,
@@ -120,7 +120,7 @@
     {
     
       "statement" : "Collaborate with scientists to map environmental sensor data ",
-      "type" : null,
+      "type" : "idea",
       "name" : "Beth Schechter ",
       "organization" : "Stamen",
       "featured" : null,
@@ -133,7 +133,7 @@
     {
     
       "statement" : "groundwater contamination knowledge and agro-well data",
-      "type" : null,
+      "type" : "have",
       "name" : "Brynne",
       "organization" : "Awesome Foundation",
       "featured" : null,
@@ -146,7 +146,7 @@
     {
     
       "statement" : "Urban sanitation projects - get the shit off the streets",
-      "type" : null,
+      "type" : "idea",
       "name" : "Brynne",
       "organization" : "Awesome Foundation",
       "featured" : null,
@@ -159,7 +159,7 @@
     {
     
       "statement" : "Knowledge of San Francisco City pipelines",
-      "type" : null,
+      "type" : "have",
       "name" : "Brynne Weeks",
       "organization" : "Awesome Foundation",
       "featured" : null,
@@ -172,7 +172,7 @@
     {
     
       "statement" : "to learn about Western/ CA water rights",
-      "type" : null,
+      "type" : "want",
       "name" : "Brynne Weeks",
       "organization" : "Awesome Foundation",
       "featured" : null,
@@ -185,7 +185,7 @@
     {
     
       "statement" : "to bring social theory, stories, perspectives to the data we love to crunch",
-      "type" : null,
+      "type" : "idea",
       "name" : "Camille",
       "organization" : null,
       "featured" : null,
@@ -198,7 +198,7 @@
     {
     
       "statement" : "Analysis of climate and energy policies in development and implementation",
-      "type" : null,
+      "type" : "have",
       "name" : "Casey Cronin",
       "organization" : "Climateworks",
       "featured" : null,
@@ -211,7 +211,7 @@
     {
     
       "statement" : "Data sets for global greenhouse gas (GHG)  emissions and abatement opportunities",
-      "type" : null,
+      "type" : "have",
       "name" : "Casey Cronin",
       "organization" : "Climateworks",
       "featured" : null,
@@ -224,7 +224,7 @@
     {
     
       "statement" : "means to effective data visualization",
-      "type" : null,
+      "type" : "want",
       "name" : "Casey Cronin",
       "organization" : "ClimateWorks",
       "featured" : null,
@@ -237,7 +237,7 @@
     {
     
       "statement" : "illustrate that we are making progress to reduce future carbon emissions",
-      "type" : null,
+      "type" : "idea",
       "name" : "Casey Cronin",
       "organization" : "ClimateWorks",
       "featured" : null,
@@ -250,7 +250,7 @@
     {
     
       "statement" : "Isabella Rosalini",
-      "type" : null,
+      "type" : "want",
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
@@ -263,7 +263,7 @@
     {
     
       "statement" : "Fuckforforest.com",
-      "type" : null,
+      "type" : "want",
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
@@ -276,7 +276,7 @@
     {
     
       "statement" : "missed connections",
-      "type" : null,
+      "type" : "want",
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
@@ -289,7 +289,7 @@
     {
     
       "statement" : "Cooperation between community mapping programs",
-      "type" : null,
+      "type" : "want",
       "name" : "Claire Mevans",
       "organization" : null,
       "featured" : null,
@@ -302,7 +302,7 @@
     {
     
       "statement" : "global informal housing community mapping action and accountability networks",
-      "type" : null,
+      "type" : "idea",
       "name" : "Claire Mevans",
       "organization" : null,
       "featured" : null,
@@ -315,7 +315,7 @@
     {
     
       "statement" : "activities for everyone. clothing swaps, etc, accessible events",
-      "type" : null,
+      "type" : "want",
       "name" : "Cristen",
       "organization" : null,
       "featured" : null,
@@ -328,7 +328,7 @@
     {
     
       "statement" : "network of people growing plants for fabric dye",
-      "type" : null,
+      "type" : "want",
       "name" : "Cristen Torrey",
       "organization" : null,
       "featured" : null,
@@ -341,7 +341,7 @@
     {
     
       "statement" : "solidarity networks - i can explain",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -354,7 +354,7 @@
     {
     
       "statement" : "balance democracy & expertise",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -367,7 +367,7 @@
     {
     
       "statement" : "participatory action research (PAR)",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -380,7 +380,7 @@
     {
     
       "statement" : "UX",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Bann 2",
       "organization" : null,
       "featured" : null,
@@ -393,7 +393,7 @@
     {
     
       "statement" : "holistic appreciation of resource usage & efficiency",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
@@ -406,7 +406,7 @@
     {
     
       "statement" : "leverage the web towards excitement about the natural world, not just mediated through the web",
-      "type" : null,
+      "type" : "idea",
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
@@ -419,7 +419,7 @@
     {
     
       "statement" : "front-end web!",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
@@ -432,7 +432,7 @@
     {
     
       "statement" : "encourage foraging through web tech",
-      "type" : null,
+      "type" : "idea",
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
@@ -445,7 +445,7 @@
     {
     
       "statement" : "Connections to most Bay Area Park Agencies",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -458,7 +458,7 @@
     {
     
       "statement" : "data about 425 parks, 160 trails in Bay Area",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -471,7 +471,7 @@
     {
     
       "statement" : "real time map of tweets, photos, other social media in or about public open spaces",
-      "type" : null,
+      "type" : "idea",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -484,7 +484,7 @@
     {
     
       "statement" : "regional, shareable open-source trails database",
-      "type" : null,
+      "type" : "idea",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -497,7 +497,7 @@
     {
     
       "statement" : "an old-fashioned print magazine to publicize good works",
-      "type" : null,
+      "type" : "have",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -510,7 +510,7 @@
     {
     
       "statement" : "create mashup stories of major local parks, trails, wildlife, plants, people",
-      "type" : null,
+      "type" : "idea",
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
@@ -523,7 +523,7 @@
     {
     
       "statement" : "Building a scalable database",
-      "type" : null,
+      "type" : "want",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -536,7 +536,7 @@
     {
     
       "statement" : "UX ninjas",
-      "type" : null,
+      "type" : "want",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -549,7 +549,7 @@
     {
     
       "statement" : "I want to use data and mapping to show people the threat to their homes and businesses from flooding and sea level rise",
-      "type" : null,
+      "type" : "idea",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -562,7 +562,7 @@
     {
     
       "statement" : "investment experience",
-      "type" : null,
+      "type" : "have",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -575,7 +575,7 @@
     {
     
       "statement" : "design research",
-      "type" : null,
+      "type" : "have",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -588,7 +588,7 @@
     {
     
       "statement" : "mapping skills",
-      "type" : null,
+      "type" : "want",
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -601,7 +601,7 @@
     {
     
       "statement" : "hidden destination",
-      "type" : null,
+      "type" : "have",
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -614,7 +614,7 @@
     {
     
       "statement" : "great educators",
-      "type" : null,
+      "type" : "have",
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -627,7 +627,7 @@
     {
     
       "statement" : "a mobile app",
-      "type" : null,
+      "type" : "want",
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -640,7 +640,7 @@
     {
     
       "statement" : "visually enhancing exhibits using tech",
-      "type" : null,
+      "type" : "want",
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -653,7 +653,7 @@
     {
     
       "statement" : "audio-visual tour",
-      "type" : null,
+      "type" : "want",
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -666,7 +666,7 @@
     {
     
       "statement" : "unique education program onsite",
-      "type" : null,
+      "type" : "have",
       "name" : "Diedre",
       "organization" : "Marime Mammal Center",
       "featured" : null,
@@ -679,7 +679,7 @@
     {
     
       "statement" : "want to put an end to single use plastic",
-      "type" : null,
+      "type" : "want",
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
@@ -692,7 +692,7 @@
     {
     
       "statement" : "coding & database skills",
-      "type" : null,
+      "type" : "have",
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
@@ -705,7 +705,7 @@
     {
     
       "statement" : "ability to network & connect people",
-      "type" : null,
+      "type" : "have",
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
@@ -718,7 +718,7 @@
     {
     
       "statement" : "make systems to help people visualize the impact of their actions",
-      "type" : null,
+      "type" : "idea",
       "name" : "Eric Thiese",
       "organization" : null,
       "featured" : null,
@@ -731,7 +731,7 @@
     {
     
       "statement" : "a dataset of species in the world",
-      "type" : null,
+      "type" : "have",
       "name" : "Gabriel Harp",
       "organization" : null,
       "featured" : null,
@@ -744,7 +744,7 @@
     {
     
       "statement" : "marine biology chops",
-      "type" : null,
+      "type" : "have",
       "name" : "Gabrielle Miller-Messer",
       "organization" : "UC Davis \nCenter for Population Biology ",
       "featured" : null,
@@ -757,7 +757,7 @@
     {
     
       "statement" : "OOP skills",
-      "type" : null,
+      "type" : "have",
       "name" : "Gabrielle Miller-Messer",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
@@ -770,7 +770,7 @@
     {
     
       "statement" : "genetics knowledge",
-      "type" : null,
+      "type" : "have",
       "name" : "Gabrielle Miller-Messner",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
@@ -783,7 +783,7 @@
     {
     
       "statement" : "mobile natural history museum apps",
-      "type" : null,
+      "type" : "idea",
       "name" : "Gabrielle Miller-Messner",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
@@ -796,7 +796,7 @@
     {
     
       "statement" : "Lots of geography info about SF",
-      "type" : null,
+      "type" : "have",
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
@@ -809,7 +809,7 @@
     {
     
       "statement" : "some remarkable research about local storms",
-      "type" : null,
+      "type" : "have",
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
@@ -822,7 +822,7 @@
     {
     
       "statement" : "an established natural history walking tour system for locals of all income level",
-      "type" : null,
+      "type" : "have",
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
@@ -835,7 +835,7 @@
     {
     
       "statement" : "lots of SF water history info",
-      "type" : null,
+      "type" : "have",
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
@@ -848,7 +848,7 @@
     {
     
       "statement" : "know how to organize bioblitz",
-      "type" : null,
+      "type" : "have",
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
@@ -861,7 +861,7 @@
     {
     
       "statement" : "knowledge of how to monitor water quality",
-      "type" : null,
+      "type" : "want",
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
@@ -874,7 +874,7 @@
     {
     
       "statement" : "organize a bioblitz for somewhere in Bay Area",
-      "type" : null,
+      "type" : "idea",
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
@@ -887,7 +887,7 @@
     {
     
       "statement" : "web app & programming skills",
-      "type" : null,
+      "type" : "have",
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
@@ -900,7 +900,7 @@
     {
     
       "statement" : "build a field guide to everything, everywhere, that lives in your pocket",
-      "type" : null,
+      "type" : "idea",
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -913,7 +913,7 @@
     {
     
       "statement" : "ability to make websites",
-      "type" : null,
+      "type" : "have",
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -926,7 +926,7 @@
     {
     
       "statement" : "sys admin expertise",
-      "type" : null,
+      "type" : "want",
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -939,7 +939,7 @@
     {
     
       "statement" : "want more people to know the names of plants and animals",
-      "type" : null,
+      "type" : "want",
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -952,7 +952,7 @@
     {
     
       "statement" : "i want the appreciation of nature to be more than a game",
-      "type" : null,
+      "type" : "want",
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -965,7 +965,7 @@
     {
     
       "statement" : "i know about bay area plants and animals",
-      "type" : null,
+      "type" : "have",
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist.org",
       "featured" : null,
@@ -978,7 +978,7 @@
     {
     
       "statement" : "centralized access to h20 & environ data",
-      "type" : null,
+      "type" : "idea",
       "name" : "Kristina Donnelly",
       "organization" : "Pacific Institute",
       "featured" : null,
@@ -991,7 +991,7 @@
     {
     
       "statement" : "Learning models for management - we are not perfect and we learn from our mistakes",
-      "type" : null,
+      "type" : "idea",
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
@@ -1004,7 +1004,7 @@
     {
     
       "statement" : "web-native stats packages",
-      "type" : null,
+      "type" : "want",
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
@@ -1017,7 +1017,7 @@
     {
     
       "statement" : "Nicer user interfaces and data visualizations",
-      "type" : null,
+      "type" : "want",
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
@@ -1030,7 +1030,7 @@
     {
     
       "statement" : "general interest in food/ soil quality",
-      "type" : null,
+      "type" : "have",
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
@@ -1043,7 +1043,7 @@
     {
     
       "statement" : "to tell data journalism stories of soil quality",
-      "type" : null,
+      "type" : "want",
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
@@ -1056,7 +1056,7 @@
     {
     
       "statement" : "Food Maps",
-      "type" : null,
+      "type" : "want",
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
@@ -1069,7 +1069,7 @@
     {
     
       "statement" : "co-founder for green funding site who has user engagement skills",
-      "type" : null,
+      "type" : "want",
       "name" : "Mark",
       "organization" : "Micro Angels",
       "featured" : null,
@@ -1082,7 +1082,7 @@
     {
     
       "statement" : "create yoga vegan timeshare community in tropics that is profitable",
-      "type" : null,
+      "type" : "idea",
       "name" : "Mark",
       "organization" : "Micro Angels",
       "featured" : null,
@@ -1095,7 +1095,7 @@
     {
     
       "statement" : "battery technology",
-      "type" : null,
+      "type" : "have",
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
@@ -1108,7 +1108,7 @@
     {
     
       "statement" : "$5.5 million battery startup",
-      "type" : null,
+      "type" : "want",
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
@@ -1121,7 +1121,7 @@
     {
     
       "statement" : "GIS and digital earth imaging knowledge base 823 terrestrial ecoregions and 7000 cultures and permacultures, etc",
-      "type" : null,
+      "type" : "idea",
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
@@ -1134,7 +1134,7 @@
     {
     
       "statement" : "database skills",
-      "type" : null,
+      "type" : "have",
       "name" : "Matt",
       "organization" : "Winterroot",
       "featured" : null,
@@ -1147,7 +1147,7 @@
     {
     
       "statement" : "Building out the Wildflowers of Detroit project",
-      "type" : null,
+      "type" : "idea",
       "name" : "Matt",
       "organization" : "Winterroot",
       "featured" : null,
@@ -1160,7 +1160,7 @@
     {
     
       "statement" : "scientists on the Farallon Islands",
-      "type" : null,
+      "type" : "have",
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1173,7 +1173,7 @@
     {
     
       "statement" : "bird observation databases for CA (scientific)",
-      "type" : null,
+      "type" : "have",
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1186,7 +1186,7 @@
     {
     
       "statement" : "Downscaled climate models for California",
-      "type" : null,
+      "type" : "have",
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1199,7 +1199,7 @@
     {
     
       "statement" : "workshop of science and storytellers to better communicate science to a lay audience",
-      "type" : null,
+      "type" : "idea",
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1212,7 +1212,7 @@
     {
     
       "statement" : "storytellers who can communicate complicated science",
-      "type" : null,
+      "type" : "want",
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1225,7 +1225,7 @@
     {
     
       "statement" : "understanding of federal/ national park policy",
-      "type" : null,
+      "type" : "have",
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
@@ -1238,7 +1238,7 @@
     {
     
       "statement" : "engage people who contribute to both political and conservation organizations",
-      "type" : null,
+      "type" : "want",
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
@@ -1251,7 +1251,7 @@
     {
     
       "statement" : "engage people who contribute to both political and conservation organizations",
-      "type" : null,
+      "type" : "idea",
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
@@ -1264,7 +1264,7 @@
     {
     
       "statement" : "soil mosture (3) & temp sensors (18) w/ dataloggers (6)",
-      "type" : null,
+      "type" : "have",
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
@@ -1277,7 +1277,7 @@
     {
     
       "statement" : "Experimental design (to make projects sciencey)",
-      "type" : null,
+      "type" : "have",
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
@@ -1290,7 +1290,7 @@
     {
     
       "statement" : "Energy use data",
-      "type" : null,
+      "type" : "want",
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
@@ -1303,7 +1303,7 @@
     {
     
       "statement" : "specs on stormwater & sewer systems (location & size of pipes and drains)",
-      "type" : null,
+      "type" : "want",
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
@@ -1316,7 +1316,7 @@
     {
     
       "statement" : "Design new science ed curriculum for high school",
-      "type" : null,
+      "type" : "idea",
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1329,7 +1329,7 @@
     {
     
       "statement" : "Make science ed videos",
-      "type" : null,
+      "type" : "idea",
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1342,7 +1342,7 @@
     {
     
       "statement" : "meet people that know how to communicate science through video",
-      "type" : null,
+      "type" : "want",
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1355,7 +1355,7 @@
     {
     
       "statement" : "Network of academic scientists",
-      "type" : null,
+      "type" : "have",
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1368,7 +1368,7 @@
     {
     
       "statement" : "Make science podcasts",
-      "type" : null,
+      "type" : "idea",
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1381,7 +1381,7 @@
     {
     
       "statement" : "to use QR codes for onsite education",
-      "type" : null,
+      "type" : "want",
       "name" : "Rob Joyce",
       "organization" : "Elefant Designs",
       "featured" : null,
@@ -1394,7 +1394,7 @@
     {
     
       "statement" : "Use tech (mobile, QR codes) to enhance on-site experiences in urban green spaces",
-      "type" : null,
+      "type" : "idea",
       "name" : "Rob Joyce",
       "organization" : "Elefant Designs",
       "featured" : null,
@@ -1407,7 +1407,7 @@
     {
     
       "statement" : "lots of deforestation data",
-      "type" : null,
+      "type" : "have",
       "name" : "Robin Kraft",
       "organization" : "EcoHack",
       "featured" : null,
@@ -1420,7 +1420,7 @@
     {
     
       "statement" : "big data skillz",
-      "type" : null,
+      "type" : "have",
       "name" : "Robin Kraft",
       "organization" : "EcoHack",
       "featured" : null,
@@ -1433,7 +1433,7 @@
     {
     
       "statement" : "I have free hosting for apps",
-      "type" : null,
+      "type" : "have",
       "name" : "Ryan",
       "organization" : "openshift / redhat",
       "featured" : null,
@@ -1446,7 +1446,7 @@
     {
     
       "statement" : "free hosting for apps",
-      "type" : null,
+      "type" : "have",
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
@@ -1459,7 +1459,7 @@
     {
     
       "statement" : "I can clean up your dirty datasets",
-      "type" : null,
+      "type" : "have",
       "name" : "Ryan J",
       "organization" : null,
       "featured" : 1,
@@ -1472,7 +1472,7 @@
     {
     
       "statement" : "Free hosting for apps",
-      "type" : null,
+      "type" : "have",
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
@@ -1485,7 +1485,7 @@
     {
     
       "statement" : "maps, code, data skills",
-      "type" : null,
+      "type" : "have",
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
@@ -1498,7 +1498,7 @@
     {
     
       "statement" : "writer who would love to interview your org/business and share stories of your goals for effecting nature in a positive way. Biosyntropy!!",
-      "type" : null,
+      "type" : "idea",
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
@@ -1511,7 +1511,7 @@
     {
     
       "statement" : "i am a writer connected to various networks pertaining to media, ecology, and community",
-      "type" : null,
+      "type" : "have",
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
@@ -1524,7 +1524,7 @@
     {
     
       "statement" : "stories for foodwebstories.com - help with biosyntropy blog",
-      "type" : null,
+      "type" : "want",
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
@@ -1537,7 +1537,7 @@
     {
     
       "statement" : "volunteer base",
-      "type" : null,
+      "type" : "have",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1550,7 +1550,7 @@
     {
     
       "statement" : "nature-loving colleagues and friends",
-      "type" : null,
+      "type" : "have",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1563,7 +1563,7 @@
     {
     
       "statement" : "greywater technologies (or greywater techmemes)",
-      "type" : null,
+      "type" : "want",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1576,7 +1576,7 @@
     {
     
       "statement" : "to make a series of audio interviews with creative environmenal leaders",
-      "type" : null,
+      "type" : "want",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1589,7 +1589,7 @@
     {
     
       "statement" : "community of permaculturalists",
-      "type" : null,
+      "type" : "want",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1602,7 +1602,7 @@
     {
     
       "statement" : "to learn how to use technology more creatively in regards to environmental stuff",
-      "type" : null,
+      "type" : "want",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1615,7 +1615,7 @@
     {
     
       "statement" : "more skills around soil building and mycelium",
-      "type" : null,
+      "type" : "want",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1628,7 +1628,7 @@
     {
     
       "statement" : "Make podcasts, short videos, creatively tell stories of people doing work around agro-ecology",
-      "type" : null,
+      "type" : "idea",
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1641,7 +1641,7 @@
     {
     
       "statement" : "connecting to nature outdoors",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1654,7 +1654,7 @@
     {
     
       "statement" : "WETAP for iOs",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1667,7 +1667,7 @@
     {
     
       "statement" : "open source geiger ",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1680,7 +1680,7 @@
     {
     
       "statement" : "legislation against bees :)",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1693,7 +1693,7 @@
     {
     
       "statement" : "knowledge of Bay Area hikes",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1706,7 +1706,7 @@
     {
     
       "statement" : "(boundless) enthusiasm",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1719,7 +1719,7 @@
     {
     
       "statement" : "knowledge of threatened & endangered species in CA",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1732,7 +1732,7 @@
     {
     
       "statement" : "parabolic mic",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1745,7 +1745,7 @@
     {
     
       "statement" : "bees & beehives",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1758,7 +1758,7 @@
     {
     
       "statement" : "to be well-informed so that I can make good decisions",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1771,7 +1771,7 @@
     {
     
       "statement" : "help w/ learning how to quickly and easily & effectively disseminate info about the enviro",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1784,7 +1784,7 @@
     {
     
       "statement" : "install iNaturalist app",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1797,7 +1797,7 @@
     {
     
       "statement" : "farming & soil education for young families",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1810,7 +1810,7 @@
     {
     
       "statement" : "data viz to reveal where we're at",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1823,7 +1823,7 @@
     {
     
       "statement" : "urban biodiversity awareness",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1836,7 +1836,7 @@
     {
     
       "statement" : "general handiness",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1849,7 +1849,7 @@
     {
     
       "statement" : "Produce Tatzoo-- an endangered species program; tatoos + species = badass fellows!",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : "Tatzoo?",
       "featured" : null,
@@ -1862,7 +1862,7 @@
     {
     
       "statement" : "google glasses for sea otters",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1875,7 +1875,7 @@
     {
     
       "statement" : "naturalist/eco social capital systems analyst",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1888,7 +1888,7 @@
     {
     
       "statement" : "to activate people into doing and making",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1901,7 +1901,7 @@
     {
     
       "statement" : "to live in a fully functioning ecosystem",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1914,7 +1914,7 @@
     {
     
       "statement" : "good data & project manager",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1927,7 +1927,7 @@
     {
     
       "statement" : "access to multiple database and historical info",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1940,7 +1940,7 @@
     {
     
       "statement" : "lots of info about indigenous island populations and ecosystems",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1953,7 +1953,7 @@
     {
     
       "statement" : "Bird data and advanced stats",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1966,7 +1966,7 @@
     {
     
       "statement" : "a data viz studio",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1979,7 +1979,7 @@
     {
     
       "statement" : "access to information ALL",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1992,7 +1992,7 @@
     {
     
       "statement" : "wind data",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2005,7 +2005,7 @@
     {
     
       "statement" : "to tell data journalism stories of food access quality",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2018,7 +2018,7 @@
     {
     
       "statement" : "regional shared trails database",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2031,7 +2031,7 @@
     {
     
       "statement" : "Access to fascinating data",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2044,7 +2044,7 @@
     {
     
       "statement" : "easy access to data for available land in urban areas for farming",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2057,7 +2057,7 @@
     {
     
       "statement" : "connect data with engineers and designers to map stories",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2070,7 +2070,7 @@
     {
     
       "statement" : "models of the intersection of land use policy and outcomes scored on a triple bottom line",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2083,7 +2083,7 @@
     {
     
       "statement" : "carbon impact in practical visual terms",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2096,7 +2096,7 @@
     {
     
       "statement" : "a project showing the lifespan of islands facing X environmental pressures / disasters",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2109,7 +2109,7 @@
     {
     
       "statement" : "a degree in ethnography",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2122,7 +2122,7 @@
     {
     
       "statement" : "Twitter, Facebook, YouTube, Meetup",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2135,7 +2135,7 @@
     {
     
       "statement" : "help contribute data to scientists",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2148,7 +2148,7 @@
     {
     
       "statement" : "help indigenous communities mobilize/conserve environmental resources",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2161,7 +2161,7 @@
     {
     
       "statement" : "promote awareness of ocean degradation",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2174,7 +2174,7 @@
     {
     
       "statement" : "centralized access to good quality h20 and environmental data",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2187,7 +2187,7 @@
     {
     
       "statement" : "nodejs servers and code assistance",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2200,7 +2200,7 @@
     {
     
       "statement" : "web hosting & web storage",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2213,7 +2213,7 @@
     {
     
       "statement" : "education design",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2226,7 +2226,7 @@
     {
     
       "statement" : " gamification design",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2239,7 +2239,7 @@
     {
     
       "statement" : "to bring a human element to data beyond visualization",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2252,7 +2252,7 @@
     {
     
       "statement" : "a way to help public park lovers to voice their opinions to decision makers",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2265,7 +2265,7 @@
     {
     
       "statement" : "local marketing campaigns for local issues",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2278,7 +2278,7 @@
     {
     
       "statement" : "permaculture> alt energy> info systems",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2291,7 +2291,7 @@
     {
     
       "statement" : "Gamification support for volunteer web presence",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2304,7 +2304,7 @@
     {
     
       "statement" : "more outdoor excitement!!! +++!!!",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2317,7 +2317,7 @@
     {
     
       "statement" : "expand network to everywhere",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2330,7 +2330,7 @@
     {
     
       "statement" : "data visualization and design chops",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2343,7 +2343,7 @@
     {
     
       "statement" : "a feeling for the organism",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2356,7 +2356,7 @@
     {
     
       "statement" : "animation, video, storytelling, art, technology",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2369,7 +2369,7 @@
     {
     
       "statement" : "work on projects where i can learn to be nerdier (learn/get better at JS, D3, etc)",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2382,7 +2382,7 @@
     {
     
       "statement" : "build a structure using biomimicry",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2395,7 +2395,7 @@
     {
     
       "statement" : "teach enviro ed to elementary kids",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2408,7 +2408,7 @@
     {
     
       "statement" : "instill enviro values at early age",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2421,7 +2421,7 @@
     {
     
       "statement" : "tell my children bedtime stories",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2434,7 +2434,7 @@
     {
     
       "statement" : "Shared food maps",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2447,7 +2447,7 @@
     {
     
       "statement" : "I want a kit of parts to assemble and expose my data",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2460,7 +2460,7 @@
     {
     
       "statement" : "Javascript tutelage",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2473,7 +2473,7 @@
     {
     
       "statement" : "Fix my website",
-      "type" : null,
+      "type" : "want",
       "name" : "Brent Plater",
       "organization" : "wildequity.org",
       "featured" : null,
@@ -2486,7 +2486,7 @@
     {
     
       "statement" : "Placeds to put air quality sensors",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2499,7 +2499,7 @@
     {
     
       "statement" : "Urban foraging maps",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2512,7 +2512,7 @@
     {
     
       "statement" : "Love maps - see what drives your passion. -gardens, -sustain",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2525,7 +2525,7 @@
     {
     
       "statement" : "online tools for mapping water resources and management decision support",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2538,7 +2538,7 @@
     {
     
       "statement" : "Legal, corporate, and educational business background",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2551,7 +2551,7 @@
     {
     
       "statement" : "GIS skills",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2564,7 +2564,7 @@
     {
     
       "statement" : "contacts and expertise in water management in california",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2577,7 +2577,7 @@
     {
     
       "statement" : "open source mapping expertise",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2590,7 +2590,7 @@
     {
     
       "statement" : "Construct a map of local food systems across the nation",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2603,7 +2603,7 @@
     {
     
       "statement" : "ways to link global climate events and impacts with local audiences",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2616,7 +2616,7 @@
     {
     
       "statement" : "collaborations with local environmental justice groups",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2629,7 +2629,7 @@
     {
     
       "statement" : "Pesticide Mapping",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2642,7 +2642,7 @@
     {
     
       "statement" : "Air Quality Maps",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2655,7 +2655,7 @@
     {
     
       "statement" : "pigeon maps",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2668,7 +2668,7 @@
     {
     
       "statement" : "Learn best practices for mobile and remote areas without coverage",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2681,7 +2681,7 @@
     {
     
       "statement" : "rooftop space or garden",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2694,7 +2694,7 @@
     {
     
       "statement" : "hydroponics",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2707,7 +2707,7 @@
     {
     
       "statement" : "GIS, cloud, mobile, web, software engineering",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2720,7 +2720,7 @@
     {
     
       "statement" : "marketing & communication",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2733,7 +2733,7 @@
     {
     
       "statement" : "fundingmethod for green companies",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2746,7 +2746,7 @@
     {
     
       "statement" : "tech skills",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2759,7 +2759,7 @@
     {
     
       "statement" : "design background",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2772,7 +2772,7 @@
     {
     
       "statement" : "stats skills",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2785,7 +2785,7 @@
     {
     
       "statement" : "art/craft/printmaking skills & supplies",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2798,7 +2798,7 @@
     {
     
       "statement" : "web & graphics design, web coder, photograher, volunteers",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2811,7 +2811,7 @@
     {
     
       "statement" : "visual design, UX design, web design",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2824,7 +2824,7 @@
     {
     
       "statement" : "access to nerds who want to write code",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2837,7 +2837,7 @@
     {
     
       "statement" : "expertise in modeling complex systems",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2850,7 +2850,7 @@
     {
     
       "statement" : "mad service design skills",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2863,7 +2863,7 @@
     {
     
       "statement" : "to learn Javascript",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2876,7 +2876,7 @@
     {
     
       "statement" : "hackers",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2889,7 +2889,7 @@
     {
     
       "statement" : "to improve computer skills",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2902,7 +2902,7 @@
     {
     
       "statement" : "coders, designers, biologist-organizers",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2915,7 +2915,7 @@
     {
     
       "statement" : "biogeochemistry skill share",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2928,7 +2928,7 @@
     {
     
       "statement" : "promote greater literacy w/ computers, especially for elders!",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2941,7 +2941,7 @@
     {
     
       "statement" : "better reach on social media",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2954,7 +2954,7 @@
     {
     
       "statement" : "thousands of artists!",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2967,7 +2967,7 @@
     {
     
       "statement" : "a solid understanding of how environmental info gets used by decision makers",
-      "type" : null,
+      "type" : "have",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2980,7 +2980,7 @@
     {
     
       "statement" : "more feedback about consumption",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2993,7 +2993,7 @@
     {
     
       "statement" : "more options for accountability",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3006,7 +3006,7 @@
     {
     
       "statement" : "create pro-nature artist culture",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3019,7 +3019,7 @@
     {
     
       "statement" : "new storytelling strategies for local nature journalism",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3032,7 +3032,7 @@
     {
     
       "statement" : "to tell stories",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3045,7 +3045,7 @@
     {
     
       "statement" : "Exchange for donated server/ storage capacity",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3058,7 +3058,7 @@
     {
     
       "statement" : "want to be outside",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3071,7 +3071,7 @@
     {
     
       "statement" : "more nature in cities",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3084,7 +3084,7 @@
     {
     
       "statement" : "encourage urban farm in & outdoors",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3097,7 +3097,7 @@
     {
     
       "statement" : "calculate and display the metabolism of the city of oakland",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3110,7 +3110,7 @@
     {
     
       "statement" : "feedback between amazon purchases and habitat destruction",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3123,7 +3123,7 @@
     {
     
       "statement" : "crowd-sourcing app for feral cat populations across the US",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3136,7 +3136,7 @@
     {
     
       "statement" : "More & better bike paths ",
-      "type" : null,
+      "type" : "idea",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3149,7 +3149,7 @@
     {
     
       "statement" : "permaculture generating enough foods for cities",
-      "type" : null,
+      "type" : "want",
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3162,7 +3162,7 @@
     {
     
       "statement" : "volunteer for birding or bioblitzs",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3175,7 +3175,7 @@
     {
     
       "statement" : "more chances to involve kids w/ Nerds for Nature",
-      "type" : null,
+      "type" : "idea",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3188,7 +3188,7 @@
     {
     
       "statement" : "build a roadkill database app \"flatfluffy\"",
-      "type" : null,
+      "type" : "idea",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3201,7 +3201,7 @@
     {
     
       "statement" : "an electronic \"CNDDB\" entry form - maybe like fishtagger",
-      "type" : null,
+      "type" : "idea",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3214,7 +3214,7 @@
     {
     
       "statement" : "collection of conservation GIS datasets updated & in one place",
-      "type" : null,
+      "type" : "idea",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3227,7 +3227,7 @@
     {
     
       "statement" : "ability to teach programming",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3240,7 +3240,7 @@
     {
     
       "statement" : "GIS and spatial expertise",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3253,7 +3253,7 @@
     {
     
       "statement" : "teach stats",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3266,7 +3266,7 @@
     {
     
       "statement" : "access to SF Bird Observatory datasets",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3279,7 +3279,7 @@
     {
     
       "statement" : "front end programmer to work w/ Django & Python",
-      "type" : null,
+      "type" : "want",
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
@@ -3292,7 +3292,7 @@
     {
     
       "statement" : "Business Development experience",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
@@ -3305,7 +3305,7 @@
     {
     
       "statement" : "nonprofit formation & board experience",
-      "type" : null,
+      "type" : "have",
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
@@ -3318,7 +3318,7 @@
     {
     
       "statement" : "better visalization of wildlife data",
-      "type" : null,
+      "type" : "want",
       "name" : "Steven Citron-Poutsy",
       "organization" : null,
       "featured" : null,
@@ -3331,7 +3331,7 @@
     {
     
       "statement" : "marketing & P.R. experience connections",
-      "type" : null,
+      "type" : "have",
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3344,7 +3344,7 @@
     {
     
       "statement" : "technologist programmer",
-      "type" : null,
+      "type" : "want",
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3357,7 +3357,7 @@
     {
     
       "statement" : "participants to document and narrate stories about places",
-      "type" : null,
+      "type" : "want",
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3370,7 +3370,7 @@
     {
     
       "statement" : "field trips to document and capture (digitall) stories and facts about places",
-      "type" : null,
+      "type" : "idea",
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3383,7 +3383,7 @@
     {
     
       "statement" : "a mobile geo platform for audio, video, text, metadata about places",
-      "type" : null,
+      "type" : "have",
       "name" : "Steven Echtmon",
       "organization" : null,
       "featured" : null,
@@ -3396,7 +3396,7 @@
     {
     
       "statement" : "way to contribute even without tech skills",
-      "type" : null,
+      "type" : "want",
       "name" : "Victoria B",
       "organization" : null,
       "featured" : null,
@@ -3409,7 +3409,7 @@
     {
     
       "statement" : "get to zero waste by 2020",
-      "type" : null,
+      "type" : "idea",
       "name" : "Zoey Kroll",
       "organization" : "SF Department of the Environment",
       "featured" : null,
@@ -3422,7 +3422,7 @@
     {
     
       "statement" : "citizen bio-monitoring & aggregator mapping",
-      "type" : null,
+      "type" : "idea",
       "name" : null,
       "organization" : null,
       "featured" : null,
@@ -3435,7 +3435,7 @@
     {
     
       "statement" : "I have national park data! invasive plants, site stewardship, critters, water, trails, LIDAR",
-      "type" : null,
+      "type" : "have",
       "name" : "Michael Norelli",
       "organization" : "Golden Gate Parks Conservancy",
       "featured" : null,
@@ -3448,7 +3448,7 @@
     {
     
       "statement" : "I want to learn all of the buzz words coders know!",
-      "type" : null,
+      "type" : "want",
       "name" : "Michael Norelli",
       "organization" : "Golden Gate Parks Conservancy",
       "featured" : null,
@@ -3461,7 +3461,7 @@
     {
     
       "statement" : "i-naturalist California Natural Diversity Database (CNDDB) add",
-      "type" : null,
+      "type" : "idea",
       "name" : null,
       "organization" : null,
       "featured" : null,
@@ -3474,7 +3474,7 @@
     {
     
       "statement" : "Visualization skills for displaying climate models",
-      "type" : null,
+      "type" : "want",
       "name" : null,
       "organization" : null,
       "featured" : null,
@@ -3487,7 +3487,7 @@
     {
     
       "statement" : "visual design infographics",
-      "type" : null,
+      "type" : "have",
       "name" : null,
       "organization" : null,
       "featured" : null,
@@ -3500,7 +3500,7 @@
     {
     
       "statement" : "more idea generating meetings! link with EcoHack and Geo MeetUp",
-      "type" : null,
+      "type" : "idea",
       "name" : "Michael Norelli",
       "organization" : "Golden Gate Parks Conservancy",
       "featured" : null,
@@ -3513,7 +3513,7 @@
     {
     
       "statement" : "biodiversity conservation practicioner",
-      "type" : null,
+      "type" : "have",
       "name" : null,
       "organization" : null,
       "featured" : null,
@@ -3526,7 +3526,7 @@
     {
     
       "statement" : "public greenspace continuing to be activated",
-      "type" : null,
+      "type" : "have",
       "name" : null,
       "organization" : "Pleasetouchgarden.org",
       "featured" : null,
@@ -3539,7 +3539,7 @@
     {
     
       "statement" : "california nature diversity database application add on for iNaturalist",
-      "type" : null,
+      "type" : "want",
       "name" : null,
       "organization" : null,
       "featured" : null,

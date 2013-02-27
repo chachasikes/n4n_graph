@@ -99,7 +99,6 @@ app.get('/tags/create', function(req, res) {
   var json = require('./data/data.json');
   var obj = json.rows;
   var tagsObjectMain = {
-   "name": "flare",
    "children": []
   };
   var tagsObject = {};
