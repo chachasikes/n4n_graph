@@ -1,6 +1,6 @@
 var app = {};
   
-app.fill = d3.scale.category20().range(["#ffa20f","#96ff09","#ff5c77", "#5469e2", "#efef18", "#9b6dcc"]);
+app.fill = d3.scale.category20().range(["#00b570","#9cd83d","#ff6b98", "#5469e2", "#d6d005", "#b07fef", "#1db5ce","#ff7424","#d70042"]);
 
 app.renderCloud = function(data) {
   app.items = data.children[0];  
@@ -12,7 +12,7 @@ app.renderCloud = function(data) {
         var label = d;
         var count = app.items[d].length;
 
-        return {text: label, size: 20 + (count * 1.5)};
+        return {text: label, size: 24 + (count * 2.25)};
       }))
       .rotate(function() { return ~~(Math.random() * 2) * 90; })
       .font("Passion One")

@@ -23,6 +23,20 @@ h2, h3, .count {
   color: rgba(0,0,0,0.4);
 }
 
+.graph {
+  padding: 10px;
+}
+
+p {
+  padding: 20px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #0b7b87;
+  font-weight: bold;
+}
+
 h2 {
   font-size: 20px;  
 }
