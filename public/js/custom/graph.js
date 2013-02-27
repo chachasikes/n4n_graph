@@ -37,9 +37,21 @@ app.showContents = function(item){
   var output = '<h3>' + key + '</h3>';
   
   for(var i in tagItems) {
-    item = tagItems[i]
+    item = tagItems[i];
+    
+    if(item.type === 'do'){
+      item.type = 'idea';
+    }
+    
     var string = '<span class="type">' + (item.type).toUpperCase() + "</span> " + item.statement;
-    output += '<div class="item">' + string + '<br /></div>';
+    output += '<div class="item">' + string;
+    if(item.name || item['social\ media']) {
+      output += ' - ' + item.name;
+      if(item['social\ media']) {
+        output += ' ' + item['social\ media'];
+      }
+    }
+    output += ' <br /></div>';
   }
   console.log(output);
   $('.contents').html(output);
