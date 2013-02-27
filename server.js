@@ -9,8 +9,8 @@ var express = require('express');
 
 var jquery = fs.readFileSync("./jquery-1.8.3.min.js").toString();
 
-var EngineProvider = require('./engine').EngineProvider;
-var engine         = new EngineProvider();
+//var EngineProvider = require('./engine').EngineProvider;
+//var engine         = new EngineProvider();
 
 var _ = require('underscore')._;
 var async = require('async');
