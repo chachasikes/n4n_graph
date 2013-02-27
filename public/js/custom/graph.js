@@ -32,6 +32,8 @@ app.showContents = function(item){
   var color = item.attr('color');
 
   var tagItems = app.items[key];
+  // randomize
+  tagItems = _.shuffle(tagItems);
   var count = tagItems.length;
   
   var output = '<h3>' + key + '</h3>'
