@@ -1,6 +1,6 @@
 var app = {};
   
-app.fill = d3.scale.category20();
+app.fill = d3.scale.category20().range(["#ffa20f","#96ff09","#ff5c77", "#5469e2", "#efef18", "#690093"]);
 
 app.renderCloud = function(data) {
   app.items = data.children[0];  
@@ -34,7 +34,8 @@ app.showContents = function(item){
   var tagItems = app.items[key];
   var count = tagItems.length;
   
-  var output = '<h3>' + key + '</h3>';
+  var output = '<h3>' + key + '</h3>'
+  output += '<span class="count">' +  tagItems.length + '</span>';
   
   for(var i in tagItems) {
     item = tagItems[i];
@@ -43,18 +44,24 @@ app.showContents = function(item){
       item.type = 'idea';
     }
     
-    var string = '<span class="type">' + (item.type).toUpperCase() + "</span> " + item.statement;
+    var string = '';
+    if(item.type) {
+      string += '<span class="type">' + (item.type).toUpperCase() + "</span>";
+    }
+    string += item.statement;
     output += '<div class="item">' + string;
+    
+    output += '<span class="attribution">';
     if(item.name || item['social\ media']) {
-      output += ' - ' + item.name;
+      output += item.name;
       if(item['social\ media']) {
         output += ' ' + item['social\ media'];
       }
     }
-    output += ' <br /></div>';
+    output += '</span> <br /></div>';
   }
   console.log(output);
-  $('.contents').html(output);
+  $('.content').html(output);
   $('.contents').css('background-color', color);
   
 };

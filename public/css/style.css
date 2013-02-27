@@ -4,19 +4,50 @@ text {
   cursor: pointer;
 }
 
-h3 {
+
+
+h2, h3, .count {
   font: 48px sans-serif;
   font-family: 'Passion One', cursive;
   text-transform: uppercase;
   line-height: 0.8em;
 }
 
+.count {
+  font: 36px sans-serif;
+  font-family: 'Passion One', cursive;
+  display: block;
+  position: fixed;
+  right: 60px;
+  top: 72px;
+  color: rgba(0,0,0,0.4);
+}
+
+h2 {
+  font-size: 20px;  
+}
+
+.footer {
+  padding: 40px 20px;
+  width: 50%;
+
+  display: block;
+}
 
 .type {
   font: 24px sans-serif;
   text-transform: uppercase;
   font-family: 'Passion One', cursive;
 
+}
+
+.attribution {
+  font-weight: 0.9em;
+  font-style: italic;
+}
+
+.attribution:before {
+  content: ' - ';
 }
 
 .contents {
@@ -26,7 +57,7 @@ h3 {
   z-index: 1000;
   background: rgba(200,200,200, 0.8);
   color: #000;
-  width: 300px;
+  width: 400px;
   height: 300px;
   padding: 10px 10px 30px 10px;
   overflow-y: scroll;
@@ -34,6 +65,9 @@ h3 {
   -moz-box-shadow: 10px 10px 5px #ccc;
   -webkit-box-shadow: 10px 10px 5px #ccc;
   box-shadow: 10px 10px 5px #ccc;
+}
+.content {
+  margin-top: 20px;
 }
 
 .graph {

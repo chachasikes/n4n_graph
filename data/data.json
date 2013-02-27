@@ -3,33 +3,33 @@
     {
     
       "statement" : "37 years of marine mammal data",
-      "type" : "have",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : 1,
       "social media" : null,
-      "tags" : "oceans, wildlife,ocean, data, historic, bay area, data",
-      "tags_json" : "[\"oceans\",\" wildlife\",\"ocean\",\" data\",\" historic\",\" bay area\",\" data\"]",
+      "tags" : "oceans,wildlife,ocean,data,historic,bay area,data,have",
+      "tags_json" : "[\"oceans\",\"wildlife\",\"ocean\",\"data\",\"historic\",\"bay area\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "ocean trash data and its negative effects on animals",
-      "type" : "have",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "oceans, waste, wildlife,ocean, data, trash, species, endangered, pollution, waste, data",
-      "tags_json" : "[\"oceans\",\" waste\",\" wildlife\",\"ocean\",\" data\",\" trash\",\" species\",\" endangered\",\" pollution\",\" waste\",\" data\"]",
+      "tags" : "oceans,waste,wildlife,ocean,data,trash,species,endangered,pollution,waste,data,have",
+      "tags_json" : "[\"oceans\",\"waste\",\"wildlife\",\"ocean\",\"data\",\"trash\",\"species\",\"endangered\",\"pollution\",\"waste\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Easy guide to show simple environmental choices",
-      "type" : "do",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -42,241 +42,241 @@
     {
     
       "statement" : "Ladder of engagement to get youth involved in environmental actions",
-      "type" : "want",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "youth, education, action,educational, guide, environmental, environment, conserve, recycle, reduce, resuse, tips, graphic, mapping",
-      "tags_json" : "[\"youth\",\" education\",\" action\",\"educational\",\" guide\",\" environmental\",\" environment\",\" conserve\",\" recycle\",\" reduce\",\" resuse\",\" tips\",\" graphic\",\" mapping\"]",
+      "tags" : "youth,education,action,educational,guide,environmental,environment,conserve,recycle,reduce,resuse,tips,graphic,mapping,want",
+      "tags_json" : "[\"youth\",\"education\",\"action\",\"educational\",\"guide\",\"environmental\",\"environment\",\"conserve\",\"recycle\",\"reduce\",\"resuse\",\"tips\",\"graphic\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Easy guidesfor best practices with waste disposal",
-      "type" : "want",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "consumption, waste, education,waste, pollution, urban, permaculture, sustainable, guides, graphic, educational, city, suburb, trash, compost, recycle, electronics, disposal, mapping",
-      "tags_json" : "[\"consumption\",\" waste\",\" education\",\"waste\",\" pollution\",\" urban\",\" permaculture\",\" sustainable\",\" guides\",\" graphic\",\" educational\",\" city\",\" suburb\",\" trash\",\" compost\",\" recycle\",\" electronics\",\" disposal\",\" mapping\"]",
+      "tags" : "consumption,waste,education,waste,pollution,urban,permaculture,sustainable,guides,graphic,educational,city,suburb,trash,compost,recycle,electronics,disposal,mapping,want",
+      "tags_json" : "[\"consumption\",\"waste\",\"education\",\"waste\",\"pollution\",\"urban\",\"permaculture\",\"sustainable\",\"guides\",\"graphic\",\"educational\",\"city\",\"suburb\",\"trash\",\"compost\",\"recycle\",\"electronics\",\"disposal\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "app to allow for easy determination of trash, recycle, compost",
-      "type" : "do",
+      "type" : null,
       "name" : "Adam Ratner",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "waste, consumption, education,waste, pollution, urban, permaculture, sustainable, guides, graphic, educational, city, suburb, trash, compost, recycle, electronics, disposal, mapping",
-      "tags_json" : "[\"waste\",\" consumption\",\" education\",\"waste\",\" pollution\",\" urban\",\" permaculture\",\" sustainable\",\" guides\",\" graphic\",\" educational\",\" city\",\" suburb\",\" trash\",\" compost\",\" recycle\",\" electronics\",\" disposal\",\" mapping\"]",
+      "tags" : "waste,consumption,education,waste,pollution,urban,permaculture,sustainable,guides,graphic,educational,city,suburb,trash,compost,recycle,electronics,disposal,mapping,idea",
+      "tags_json" : "[\"waste\",\"consumption\",\"education\",\"waste\",\"pollution\",\"urban\",\"permaculture\",\"sustainable\",\"guides\",\"graphic\",\"educational\",\"city\",\"suburb\",\"trash\",\"compost\",\"recycle\",\"electronics\",\"disposal\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "experience teaching kids to code",
-      "type" : "have",
+      "type" : null,
       "name" : "Alison Beezy",
       "organization" : null,
       "featured" : null,
       "social media" : "@alisonbeezy",
-      "tags" : "education,educational, programming, technology, code, share, skills, skillshare, teach, kids",
-      "tags_json" : "[\"education\",\"educational\",\" programming\",\" technology\",\" code\",\" share\",\" skills\",\" skillshare\",\" teach\",\" kids\"]",
+      "tags" : "education,educational,programming,technology,code,share,skills,skillshare,teach,kids,have",
+      "tags_json" : "[\"education\",\"educational\",\"programming\",\"technology\",\"code\",\"share\",\"skills\",\"skillshare\",\"teach\",\"kids\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "web development skillz",
-      "type" : "have",
+      "type" : null,
       "name" : "Alison Beezy",
       "organization" : null,
       "featured" : null,
       "social media" : "@alisonbeezy",
-      "tags" : "developer, web,web development, programming, skills, technology, volunteer, developer, technologist, skills",
-      "tags_json" : "[\"developer\",\" web\",\"web development\",\" programming\",\" skills\",\" technology\",\" volunteer\",\" developer\",\" technologist\",\" skills\"]",
+      "tags" : "developer,web,web development,programming,skills,technology,volunteer,developer,technologist,skills,have",
+      "tags_json" : "[\"developer\",\"web\",\"web development\",\"programming\",\"skills\",\"technology\",\"volunteer\",\"developer\",\"technologist\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "network of technologists and designers interested in data collection and mapping",
-      "type" : "have",
+      "type" : null,
       "name" : "Beth Schechter ",
       "organization" : "Stamen",
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, data, visualization,web development, programming, skills, technology, volunteer, designer,  technologist, data collection, data, mapping, data visualization, GPS, Open Street Map, developer, GIS, design, maps, mapping",
-      "tags_json" : "[\"skills\",\" data\",\" visualization\",\"web development\",\" programming\",\" skills\",\" technology\",\" volunteer\",\" designer\",\"  technologist\",\" data collection\",\" data\",\" mapping\",\" data visualization\",\" gps\",\" open street map\",\" developer\",\" gis\",\" design\",\" maps\",\" mapping\"]",
+      "tags" : "skills,data,visualization,web development,programming,skills,technology,volunteer,designer, technologist,data collection,data,mapping,data visualization,GPS,Open Street Map,developer,GIS,design,maps,mapping,have",
+      "tags_json" : "[\"skills\",\"data\",\"visualization\",\"web development\",\"programming\",\"skills\",\"technology\",\"volunteer\",\"designer\",\" technologist\",\"data collection\",\"data\",\"mapping\",\"data visualization\",\"gps\",\"open street map\",\"developer\",\"gis\",\"design\",\"maps\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Collaborate with scientists to map environmental sensor data ",
-      "type" : "do",
+      "type" : null,
       "name" : "Beth Schechter ",
       "organization" : "Stamen",
       "featured" : null,
       "social media" : null,
-      "tags" : "sensors, data,scientists, data, maps, hardware, sensors, environmental, nature, environment, data collection, mapping",
-      "tags_json" : "[\"sensors\",\" data\",\"scientists\",\" data\",\" maps\",\" hardware\",\" sensors\",\" environmental\",\" nature\",\" environment\",\" data collection\",\" mapping\"]",
+      "tags" : "sensors,data,scientists,data,maps,hardware,sensors,environmental,nature,environment,data collection,mapping,idea",
+      "tags_json" : "[\"sensors\",\"data\",\"scientists\",\"data\",\"maps\",\"hardware\",\"sensors\",\"environmental\",\"nature\",\"environment\",\"data collection\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "groundwater contamination knowledge and agro-well data",
-      "type" : "have",
+      "type" : null,
       "name" : "Brynne",
       "organization" : "Awesome Foundation",
       "featured" : null,
       "social media" : "@brynneweeks",
-      "tags" : "water, data,water, groundwater, contamination, purfication, wells, agro-well, data, data collection, water supply, information, mapping",
-      "tags_json" : "[\"water\",\" data\",\"water\",\" groundwater\",\" contamination\",\" purfication\",\" wells\",\" agro-well\",\" data\",\" data collection\",\" water supply\",\" information\",\" mapping\"]",
+      "tags" : "water,data,water,groundwater,contamination,purfication,wells,agro-well,data,data collection,water supply,information,mapping,have",
+      "tags_json" : "[\"water\",\"data\",\"water\",\"groundwater\",\"contamination\",\"purfication\",\"wells\",\"agro-well\",\"data\",\"data collection\",\"water supply\",\"information\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Urban sanitation projects - get the shit off the streets",
-      "type" : "do",
+      "type" : null,
       "name" : "Brynne",
       "organization" : "Awesome Foundation",
       "featured" : null,
       "social media" : "@brynneweeks",
-      "tags" : "urban, action,sanitation, poop, pee, urban, bathrooms, public, free, shit, homeless, solutions, hardware, mapping",
-      "tags_json" : "[\"urban\",\" action\",\"sanitation\",\" poop\",\" pee\",\" urban\",\" bathrooms\",\" public\",\" free\",\" shit\",\" homeless\",\" solutions\",\" hardware\",\" mapping\"]",
+      "tags" : "urban,action,sanitation,poop,pee,urban,bathrooms,public,free,shit,homeless,solutions,hardware,mapping,idea",
+      "tags_json" : "[\"urban\",\"action\",\"sanitation\",\"poop\",\"pee\",\"urban\",\"bathrooms\",\"public\",\"free\",\"shit\",\"homeless\",\"solutions\",\"hardware\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Knowledge of San Francisco City pipelines",
-      "type" : "have",
+      "type" : null,
       "name" : "Brynne Weeks",
       "organization" : "Awesome Foundation",
       "featured" : null,
       "social media" : "@brynneweeks",
-      "tags" : "SF, urban,San Francisco, pipelines, data, data",
-      "tags_json" : "[\"sf\",\" urban\",\"san francisco\",\" pipelines\",\" data\",\" data\"]",
+      "tags" : "SF,urban,San Francisco,pipelines,data,data,have",
+      "tags_json" : "[\"sf\",\"urban\",\"san francisco\",\"pipelines\",\"data\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to learn about Western/ CA water rights",
-      "type" : "want",
+      "type" : null,
       "name" : "Brynne Weeks",
       "organization" : "Awesome Foundation",
       "featured" : null,
       "social media" : "@brynneweeks",
-      "tags" : "water, policy,California, water, water rights, data, history, future, planning, skills",
-      "tags_json" : "[\"water\",\" policy\",\"california\",\" water\",\" water rights\",\" data\",\" history\",\" future\",\" planning\",\" skills\"]",
+      "tags" : "water,policy,California,water,water rights,data,history,future,planning,skills,want",
+      "tags_json" : "[\"water\",\"policy\",\"california\",\"water\",\"water rights\",\"data\",\"history\",\"future\",\"planning\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to bring social theory, stories, perspectives to the data we love to crunch",
-      "type" : "do",
+      "type" : null,
       "name" : "Camille",
       "organization" : null,
       "featured" : null,
       "social media" : "@fulgenteft",
-      "tags" : "storytelling,social theory, stories, data, parsing, analysis, education",
-      "tags_json" : "[\"storytelling\",\"social theory\",\" stories\",\" data\",\" parsing\",\" analysis\",\" education\"]",
+      "tags" : "storytelling,social theory,stories,data,parsing,analysis,education,idea",
+      "tags_json" : "[\"storytelling\",\"social theory\",\"stories\",\"data\",\"parsing\",\"analysis\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Analysis of climate and energy policies in development and implementation",
-      "type" : "have",
+      "type" : null,
       "name" : "Casey Cronin",
       "organization" : "Climateworks",
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change,climate policy, energy policy, nuclear, wind, solar, fossil fuel, geothermal, climate change, data",
-      "tags_json" : "[\"climate change\",\"climate policy\",\" energy policy\",\" nuclear\",\" wind\",\" solar\",\" fossil fuel\",\" geothermal\",\" climate change\",\" data\"]",
+      "tags" : "climate change,climate policy,energy policy,nuclear,wind,solar,fossil fuel,geothermal,climate change,data,have",
+      "tags_json" : "[\"climate change\",\"climate policy\",\"energy policy\",\"nuclear\",\"wind\",\"solar\",\"fossil fuel\",\"geothermal\",\"climate change\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Data sets for global greenhouse gas (GHG)  emissions and abatement opportunities",
-      "type" : "have",
+      "type" : null,
       "name" : "Casey Cronin",
       "organization" : "Climateworks",
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change,data, greenhouse gas, climate change, abatement, data visualization, data collection, data",
-      "tags_json" : "[\"climate change\",\"data\",\" greenhouse gas\",\" climate change\",\" abatement\",\" data visualization\",\" data collection\",\" data\"]",
+      "tags" : "climate change,data,greenhouse gas,climate change,abatement,data visualization,data collection,data,have",
+      "tags_json" : "[\"climate change\",\"data\",\"greenhouse gas\",\"climate change\",\"abatement\",\"data visualization\",\"data collection\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "means to effective data visualization",
-      "type" : "want",
+      "type" : null,
       "name" : "Casey Cronin",
       "organization" : "ClimateWorks",
       "featured" : null,
       "social media" : null,
-      "tags" : "skills,data visualization, influential visual design",
-      "tags_json" : "[\"skills\",\"data visualization\",\" influential visual design\"]",
+      "tags" : "skills,data visualization,influential visual design,want",
+      "tags_json" : "[\"skills\",\"data visualization\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "illustrate that we are making progress to reduce future carbon emissions",
-      "type" : "do",
+      "type" : null,
       "name" : "Casey Cronin",
       "organization" : "ClimateWorks",
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change,climate change, carbon emissions, design, designer, illustrations, graphics, progress, data, influential visual design",
-      "tags_json" : "[\"climate change\",\"climate change\",\" carbon emissions\",\" design\",\" designer\",\" illustrations\",\" graphics\",\" progress\",\" data\",\" influential visual design\"]",
+      "tags" : "climate change,climate change,carbon emissions,design,designer,illustrations,graphics,progress,data,influential visual design,idea",
+      "tags_json" : "[\"climate change\",\"climate change\",\"carbon emissions\",\"design\",\"designer\",\"illustrations\",\"graphics\",\"progress\",\"data\",\"influential visual design\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Isabella Rosalini",
-      "type" : "want",
+      "type" : null,
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art,Isabella Rossalini, data",
-      "tags_json" : "[\"art\",\"isabella rossalini\",\" data\"]",
+      "tags" : "art,Isabella Rossalini,data,want",
+      "tags_json" : "[\"art\",\"isabella rossalini\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Fuckforforest.com",
-      "type" : "want",
+      "type" : null,
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art,Fuckforforest.com, data",
-      "tags_json" : "[\"art\",\"fuckforforest.com\",\" data\"]",
+      "tags" : "art,Fuckforforest.com,data,want",
+      "tags_json" : "[\"art\",\"fuckforforest.com\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "missed connections",
-      "type" : "want",
+      "type" : null,
       "name" : "Chach",
       "organization" : null,
       "featured" : null,
@@ -289,7 +289,7 @@
     {
     
       "statement" : "Cooperation between community mapping programs",
-      "type" : "want",
+      "type" : null,
       "name" : "Claire Mevans",
       "organization" : null,
       "featured" : null,
@@ -302,46 +302,46 @@
     {
     
       "statement" : "global informal housing community mapping action and accountability networks",
-      "type" : "do",
+      "type" : null,
       "name" : "Claire Mevans",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "urban,global, housing, community, networks, maps, mapping",
-      "tags_json" : "[\"urban\",\"global\",\" housing\",\" community\",\" networks\",\" maps\",\" mapping\"]",
+      "tags" : "urban,global,housing,community,networks,maps,mapping,idea",
+      "tags_json" : "[\"urban\",\"global\",\"housing\",\"community\",\"networks\",\"maps\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "activities for everyone. clothing swaps, etc, accessible events",
-      "type" : "want",
+      "type" : null,
       "name" : "Cristen",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "community,community, share, activiities, swaps, workshops, events, network, crowdsourcing",
-      "tags_json" : "[\"community\",\"community\",\" share\",\" activiities\",\" swaps\",\" workshops\",\" events\",\" network\",\" crowdsourcing\"]",
+      "tags" : "community,community,share,activiities,swaps,workshops,events,network,crowdsourcing,want",
+      "tags_json" : "[\"community\",\"community\",\"share\",\"activiities\",\"swaps\",\"workshops\",\"events\",\"network\",\"crowdsourcing\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "network of people growing plants for fabric dye",
-      "type" : "want",
+      "type" : null,
       "name" : "Cristen Torrey",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "plants, art,network, fabric, plants, dye, local, sustainable, garden, people, crowdsourcing",
-      "tags_json" : "[\"plants\",\" art\",\"network\",\" fabric\",\" plants\",\" dye\",\" local\",\" sustainable\",\" garden\",\" people\",\" crowdsourcing\"]",
+      "tags" : "plants,art,network,fabric,plants,dye,local,sustainable,garden,people,crowdsourcing,want",
+      "tags_json" : "[\"plants\",\"art\",\"network\",\"fabric\",\"plants\",\"dye\",\"local\",\"sustainable\",\"garden\",\"people\",\"crowdsourcing\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "solidarity networks - i can explain",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -354,7 +354,7 @@
     {
     
       "statement" : "balance democracy & expertise",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -367,7 +367,7 @@
     {
     
       "statement" : "participatory action research (PAR)",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Bann",
       "organization" : null,
       "featured" : null,
@@ -380,20 +380,20 @@
     {
     
       "statement" : "UX",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Bann 2",
       "organization" : null,
       "featured" : null,
       "social media" : "@dannbann2",
-      "tags" : "UX,UX, skills",
-      "tags_json" : "[\"ux\",\"ux\",\" skills\"]",
+      "tags" : "UX,UX,skills,have",
+      "tags_json" : "[\"ux\",\"ux\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "holistic appreciation of resource usage & efficiency",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
@@ -406,124 +406,124 @@
     {
     
       "statement" : "leverage the web towards excitement about the natural world, not just mediated through the web",
-      "type" : "do",
+      "type" : null,
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
       "social media" : "@danletson",
-      "tags" : "education, community, web,web, connection, real world, action, crowdsourcing",
-      "tags_json" : "[\"education\",\" community\",\" web\",\"web\",\" connection\",\" real world\",\" action\",\" crowdsourcing\"]",
+      "tags" : "education,community,web,web,connection,real world,action,crowdsourcing,idea",
+      "tags_json" : "[\"education\",\"community\",\"web\",\"web\",\"connection\",\"real world\",\"action\",\"crowdsourcing\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "front-end web!",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
       "social media" : "@danletson",
-      "tags" : "web, developer,skills, front-end, web, developer, designer, skills",
-      "tags_json" : "[\"web\",\" developer\",\"skills\",\" front-end\",\" web\",\" developer\",\" designer\",\" skills\"]",
+      "tags" : "web,developer,skills,front-end,web,developer,designer,skills,have",
+      "tags_json" : "[\"web\",\"developer\",\"skills\",\"front-end\",\"web\",\"developer\",\"designer\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "encourage foraging through web tech",
-      "type" : "do",
+      "type" : null,
       "name" : "Dan Letson",
       "organization" : null,
       "featured" : null,
       "social media" : "@danletson",
-      "tags" : "food, foraging,foraging, education, web, technology, storytelling",
-      "tags_json" : "[\"food\",\" foraging\",\"foraging\",\" education\",\" web\",\" technology\",\" storytelling\"]",
+      "tags" : "food,foraging,foraging,education,web,technology,storytelling,idea",
+      "tags_json" : "[\"food\",\"foraging\",\"foraging\",\"education\",\"web\",\"technology\",\"storytelling\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Connections to most Bay Area Park Agencies",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@danrademacher",
-      "tags" : "parks,Bay Area, Park agencies, connection, data",
-      "tags_json" : "[\"parks\",\"bay area\",\" park agencies\",\" connection\",\" data\"]",
+      "tags" : "parks,Bay Area,Park agencies,connection,data,have",
+      "tags_json" : "[\"parks\",\"bay area\",\"park agencies\",\"connection\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "data about 425 parks, 160 trails in Bay Area",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@danrademacher",
-      "tags" : "parks, trails, data,data, parks, trails, Bay Area, data",
-      "tags_json" : "[\"parks\",\" trails\",\" data\",\"data\",\" parks\",\" trails\",\" bay area\",\" data\"]",
+      "tags" : "parks,trails,data,data,parks,trails,Bay Area,data,have",
+      "tags_json" : "[\"parks\",\"trails\",\"data\",\"data\",\"parks\",\"trails\",\"bay area\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "real time map of tweets, photos, other social media in or about public open spaces",
-      "type" : "do",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@danrademacher",
-      "tags" : "open space, parks, data, mapping",
-      "tags_json" : "[\"open space\",\" parks\",\" data\",\" mapping\"]",
+      "tags" : "open space,parks,data,mapping,idea",
+      "tags_json" : "[\"open space\",\"parks\",\"data\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "regional, shareable open-source trails database",
-      "type" : "do",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@danrademacher",
-      "tags" : "trails, transit, parks, mapping",
-      "tags_json" : "[\"trails\",\" transit\",\" parks\",\" mapping\"]",
+      "tags" : "trails,transit,parks,mapping,idea",
+      "tags_json" : "[\"trails\",\"transit\",\"parks\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "an old-fashioned print magazine to publicize good works",
-      "type" : "have",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@dan_rademacher",
-      "tags" : "journalism, storytelling",
-      "tags_json" : "[\"journalism\",\" storytelling\"]",
+      "tags" : "journalism,storytelling,have",
+      "tags_json" : "[\"journalism\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "create mashup stories of major local parks, trails, wildlife, plants, people",
-      "type" : "do",
+      "type" : null,
       "name" : "Dan Rademacher",
       "organization" : "Bay Nature",
       "featured" : null,
       "social media" : "@dan_rademacher",
-      "tags" : "trails, parks, education, storytelling",
-      "tags_json" : "[\"trails\",\" parks\",\" education\",\" storytelling\"]",
+      "tags" : "trails,parks,education,storytelling,idea",
+      "tags_json" : "[\"trails\",\"parks\",\"education\",\"storytelling\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Building a scalable database",
-      "type" : "want",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
@@ -536,85 +536,85 @@
     {
     
       "statement" : "UX ninjas",
-      "type" : "want",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, influential visual design",
-      "tags_json" : "[\"skills\",\" influential visual design\"]",
+      "tags" : "skills,influential visual design,want",
+      "tags_json" : "[\"skills\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "I want to use data and mapping to show people the threat to their homes and businesses from flooding and sea level rise",
-      "type" : "do",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change, policy, education, mapping",
-      "tags_json" : "[\"climate change\",\" policy\",\" education\",\" mapping\"]",
+      "tags" : "climate change,policy,education,mapping,idea",
+      "tags_json" : "[\"climate change\",\"policy\",\"education\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "investment experience",
-      "type" : "have",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "business, skills",
-      "tags_json" : "[\"business\",\" skills\"]",
+      "tags" : "business,skills,have",
+      "tags_json" : "[\"business\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "design research",
-      "type" : "have",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "influential visual design, skills",
-      "tags_json" : "[\"influential visual design\",\" skills\"]",
+      "tags" : "influential visual design,skills,have",
+      "tags_json" : "[\"influential visual design\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "mapping skills",
-      "type" : "want",
+      "type" : null,
       "name" : "Daniel Goldfarb",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "mapping, education, skills",
-      "tags_json" : "[\"mapping\",\" education\",\" skills\"]",
+      "tags" : "mapping,education,skills,want",
+      "tags_json" : "[\"mapping\",\"education\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "hidden destination",
-      "type" : "have",
+      "type" : null,
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "field trip, place, education",
-      "tags_json" : "[\"field trip\",\" place\",\" education\"]",
+      "tags" : "field trip,place,education,have",
+      "tags_json" : "[\"field trip\",\"place\",\"education\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "great educators",
-      "type" : "have",
+      "type" : null,
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -627,33 +627,33 @@
     {
     
       "statement" : "a mobile app",
-      "type" : "want",
+      "type" : null,
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "mobile, education",
-      "tags_json" : "[\"mobile\",\" education\"]",
+      "tags" : "mobile,education,want",
+      "tags_json" : "[\"mobile\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "visually enhancing exhibits using tech",
-      "type" : "want",
+      "type" : null,
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "education, storytelling",
-      "tags_json" : "[\"education\",\" storytelling\"]",
+      "tags" : "education,storytelling,want",
+      "tags_json" : "[\"education\",\"storytelling\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "audio-visual tour",
-      "type" : "want",
+      "type" : null,
       "name" : "Deirdre",
       "organization" : "Marine Mammal Center",
       "featured" : null,
@@ -666,98 +666,98 @@
     {
     
       "statement" : "unique education program onsite",
-      "type" : "have",
+      "type" : null,
       "name" : "Diedre",
       "organization" : "Marime Mammal Center",
       "featured" : null,
       "social media" : null,
-      "tags" : "field trip, education",
-      "tags_json" : "[\"field trip\",\" education\"]",
+      "tags" : "field trip,education,have",
+      "tags_json" : "[\"field trip\",\"education\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "want to put an end to single use plastic",
-      "type" : "want",
+      "type" : null,
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
       "social media" : "@erictheise",
-      "tags" : "waste, single-use plastic, education",
-      "tags_json" : "[\"waste\",\" single-use plastic\",\" education\"]",
+      "tags" : "waste,single-use plastic,education,want",
+      "tags_json" : "[\"waste\",\"single-use plastic\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "coding & database skills",
-      "type" : "have",
+      "type" : null,
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
       "social media" : "@erictheise",
-      "tags" : "data, developer, skills",
-      "tags_json" : "[\"data\",\" developer\",\" skills\"]",
+      "tags" : "data,developer,skills,have",
+      "tags_json" : "[\"data\",\"developer\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "ability to network & connect people",
-      "type" : "have",
+      "type" : null,
       "name" : "Eric Theise",
       "organization" : null,
       "featured" : null,
       "social media" : "@erictheise",
-      "tags" : "community, skills",
-      "tags_json" : "[\"community\",\" skills\"]",
+      "tags" : "community,skills,have",
+      "tags_json" : "[\"community\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "make systems to help people visualize the impact of their actions",
-      "type" : "do",
+      "type" : null,
       "name" : "Eric Thiese",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "visualization, education",
-      "tags_json" : "[\"visualization\",\" education\"]",
+      "tags" : "visualization,education,idea",
+      "tags_json" : "[\"visualization\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a dataset of species in the world",
-      "type" : "have",
+      "type" : null,
       "name" : "Gabriel Harp",
       "organization" : null,
       "featured" : null,
       "social media" : "@ghart",
-      "tags" : "data, dataset, species, storytelling",
-      "tags_json" : "[\"data\",\" dataset\",\" species\",\" storytelling\"]",
+      "tags" : "data,dataset,species,storytelling,have",
+      "tags_json" : "[\"data\",\"dataset\",\"species\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "marine biology chops",
-      "type" : "have",
+      "type" : null,
       "name" : "Gabrielle Miller-Messer",
       "organization" : "UC Davis \nCenter for Population Biology ",
       "featured" : null,
       "social media" : null,
-      "tags" : "oceans, citizen science",
-      "tags_json" : "[\"oceans\",\" citizen science\"]",
+      "tags" : "oceans,citizen science,have",
+      "tags_json" : "[\"oceans\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "OOP skills",
-      "type" : "have",
+      "type" : null,
       "name" : "Gabrielle Miller-Messer",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
@@ -770,7 +770,7 @@
     {
     
       "statement" : "genetics knowledge",
-      "type" : "have",
+      "type" : null,
       "name" : "Gabrielle Miller-Messner",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
@@ -783,46 +783,46 @@
     {
     
       "statement" : "mobile natural history museum apps",
-      "type" : "do",
+      "type" : null,
       "name" : "Gabrielle Miller-Messner",
       "organization" : "UC Davis \nCenter for Population Biology",
       "featured" : null,
       "social media" : null,
-      "tags" : "mapping, museums, data",
-      "tags_json" : "[\"mapping\",\" museums\",\" data\"]",
+      "tags" : "mapping,museums,data,idea",
+      "tags_json" : "[\"mapping\",\"museums\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Lots of geography info about SF",
-      "type" : "have",
+      "type" : null,
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
       "social media" : null,
-      "tags" : "history, SF, data",
-      "tags_json" : "[\"history\",\" sf\",\" data\"]",
+      "tags" : "history,SF,data,have",
+      "tags_json" : "[\"history\",\"sf\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "some remarkable research about local storms",
-      "type" : "have",
+      "type" : null,
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
       "social media" : null,
-      "tags" : "history, SF, data",
-      "tags_json" : "[\"history\",\" sf\",\" data\"]",
+      "tags" : "history,SF,data,have",
+      "tags_json" : "[\"history\",\"sf\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "an established natural history walking tour system for locals of all income level",
-      "type" : "have",
+      "type" : null,
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
@@ -835,98 +835,98 @@
     {
     
       "statement" : "lots of SF water history info",
-      "type" : "have",
+      "type" : null,
       "name" : "Joel Pomerantz",
       "organization" : "ThinkWalks",
       "featured" : null,
       "social media" : null,
-      "tags" : "water, data, storytelling, history, urban",
-      "tags_json" : "[\"water\",\" data\",\" storytelling\",\" history\",\" urban\"]",
+      "tags" : "water,data,storytelling,history,urban,have",
+      "tags_json" : "[\"water\",\"data\",\"storytelling\",\"history\",\"urban\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "know how to organize bioblitz",
-      "type" : "have",
+      "type" : null,
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "bioblitz, citizen science",
-      "tags_json" : "[\"bioblitz\",\" citizen science\"]",
+      "tags" : "bioblitz,citizen science,have",
+      "tags_json" : "[\"bioblitz\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "knowledge of how to monitor water quality",
-      "type" : "want",
+      "type" : null,
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "water, education, citizen science",
-      "tags_json" : "[\"water\",\" education\",\" citizen science\"]",
+      "tags" : "water,education,citizen science,want",
+      "tags_json" : "[\"water\",\"education\",\"citizen science\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "organize a bioblitz for somewhere in Bay Area",
-      "type" : "do",
+      "type" : null,
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "bioblitz, citizen science",
-      "tags_json" : "[\"bioblitz\",\" citizen science\"]",
+      "tags" : "bioblitz,citizen science,idea",
+      "tags_json" : "[\"bioblitz\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "web app & programming skills",
-      "type" : "have",
+      "type" : null,
       "name" : "Kaldari",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "developer, web,Skill share, web development, mobile,web, programming, needs, skills",
-      "tags_json" : "[\"developer\",\" web\",\"skill share\",\" web development\",\" mobile\",\"web\",\" programming\",\" needs\",\" skills\"]",
+      "tags" : "developer,web,Skill share,web development,mobile,web,programming,needs,skills,have",
+      "tags_json" : "[\"developer\",\"web\",\"skill share\",\"web development\",\"mobile\",\"web\",\"programming\",\"needs\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "build a field guide to everything, everywhere, that lives in your pocket",
-      "type" : "do",
+      "type" : null,
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
       "social media" : "@kueda",
-      "tags" : "education,Mobile, citizen science, nature knowledge,project, field, citizen science",
-      "tags_json" : "[\"education\",\"mobile\",\" citizen science\",\" nature knowledge\",\"project\",\" field\",\" citizen science\"]",
+      "tags" : "education,Mobile,citizen science,nature knowledge,project,field,citizen science,idea",
+      "tags_json" : "[\"education\",\"mobile\",\"citizen science\",\"nature knowledge\",\"project\",\"field\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "ability to make websites",
-      "type" : "have",
+      "type" : null,
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
       "social media" : "@kueda",
-      "tags" : "web, developer,Skill share, web development,web, programming, needs, skills",
-      "tags_json" : "[\"web\",\" developer\",\"skill share\",\" web development\",\"web\",\" programming\",\" needs\",\" skills\"]",
+      "tags" : "web,developer,Skill share,web development,web,programming,needs,skills,have",
+      "tags_json" : "[\"web\",\"developer\",\"skill share\",\"web development\",\"web\",\"programming\",\"needs\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "sys admin expertise",
-      "type" : "want",
+      "type" : null,
       "name" : "Ken-ichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
@@ -939,59 +939,59 @@
     {
     
       "statement" : "want more people to know the names of plants and animals",
-      "type" : "want",
+      "type" : null,
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
       "social media" : "@kueda",
-      "tags" : "education,Nature knowledge,field, nature, crowdsourcing",
-      "tags_json" : "[\"education\",\"nature knowledge\",\"field\",\" nature\",\" crowdsourcing\"]",
+      "tags" : "education,Nature knowledge,field,nature,crowdsourcing,want",
+      "tags_json" : "[\"education\",\"nature knowledge\",\"field\",\"nature\",\"crowdsourcing\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "i want the appreciation of nature to be more than a game",
-      "type" : "want",
+      "type" : null,
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist",
       "featured" : null,
       "social media" : "@kueda",
-      "tags" : "education,Nature knowledge,nature, crowdsourcing",
-      "tags_json" : "[\"education\",\"nature knowledge\",\"nature\",\" crowdsourcing\"]",
+      "tags" : "education,Nature knowledge,nature,crowdsourcing,want",
+      "tags_json" : "[\"education\",\"nature knowledge\",\"nature\",\"crowdsourcing\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "i know about bay area plants and animals",
-      "type" : "have",
+      "type" : null,
       "name" : "Kenichi Ueda",
       "organization" : "iNaturalist.org",
       "featured" : null,
       "social media" : "@kueda",
-      "tags" : "data, science, species, wildlife,Nature knowledge,bay area, nature, have, urban",
-      "tags_json" : "[\"data\",\" science\",\" species\",\" wildlife\",\"nature knowledge\",\"bay area\",\" nature\",\" have\",\" urban\"]",
+      "tags" : "data,science,species,wildlife,Nature knowledge,bay area,nature,have,urban,have",
+      "tags_json" : "[\"data\",\"science\",\"species\",\"wildlife\",\"nature knowledge\",\"bay area\",\"nature\",\"have\",\"urban\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "centralized access to h20 & environ data",
-      "type" : "do",
+      "type" : null,
       "name" : "Kristina Donnelly",
       "organization" : "Pacific Institute",
       "featured" : null,
       "social media" : null,
-      "tags" : "water,Data, water,water, data, data",
-      "tags_json" : "[\"water\",\"data\",\" water\",\"water\",\" data\",\" data\"]",
+      "tags" : "water,Data,water,water,data,data,idea",
+      "tags_json" : "[\"water\",\"data\",\"water\",\"water\",\"data\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Learning models for management - we are not perfect and we learn from our mistakes",
-      "type" : "do",
+      "type" : null,
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
@@ -1004,98 +1004,98 @@
     {
     
       "statement" : "web-native stats packages",
-      "type" : "want",
+      "type" : null,
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
       "social media" : null,
-      "tags" : "web technology, stats, data,Statistics, data, web development,web, data, education",
-      "tags_json" : "[\"web technology\",\" stats\",\" data\",\"statistics\",\" data\",\" web development\",\"web\",\" data\",\" education\"]",
+      "tags" : "web technology,stats,data,Statistics,data,web development,web,data,education,want",
+      "tags_json" : "[\"web technology\",\"stats\",\"data\",\"statistics\",\"data\",\"web development\",\"web\",\"data\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : "look into python, r, ropensci  - chachasikes"
     },
     {
     
       "statement" : "Nicer user interfaces and data visualizations",
-      "type" : "want",
+      "type" : null,
       "name" : "Leo Salas",
       "organization" : "PRBO",
       "featured" : null,
       "social media" : null,
-      "tags" : "influential visual design,Web development, design, data visualization,data, ui, skills",
-      "tags_json" : "[\"influential visual design\",\"web development\",\" design\",\" data visualization\",\"data\",\" ui\",\" skills\"]",
+      "tags" : "influential visual design,Web development,design,data visualization,data,ui,skills,want",
+      "tags_json" : "[\"influential visual design\",\"web development\",\"design\",\"data visualization\",\"data\",\"ui\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "general interest in food/ soil quality",
-      "type" : "have",
+      "type" : null,
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
       "social media" : "lukasz@gmail.com",
-      "tags" : "food,Nature knowledge, food, soil,food, soil, citizen science",
-      "tags_json" : "[\"food\",\"nature knowledge\",\" food\",\" soil\",\"food\",\" soil\",\" citizen science\"]",
+      "tags" : "food,Nature knowledge,food,soil,food,soil,citizen science,have",
+      "tags_json" : "[\"food\",\"nature knowledge\",\"food\",\"soil\",\"food\",\"soil\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to tell data journalism stories of soil quality",
-      "type" : "want",
+      "type" : null,
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "Storytelling, soil,Data visualization, journalism, soil,data, journalism, soil, data",
-      "tags_json" : "[\"storytelling\",\" soil\",\"data visualization\",\" journalism\",\" soil\",\"data\",\" journalism\",\" soil\",\" data\"]",
+      "tags" : "Storytelling,soil,Data visualization,journalism,soil,data,journalism,soil,data,want",
+      "tags_json" : "[\"storytelling\",\"soil\",\"data visualization\",\"journalism\",\"soil\",\"data\",\"journalism\",\"soil\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Food Maps",
-      "type" : "want",
+      "type" : null,
       "name" : "Lukasz",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food,Food, maps, data,food, maps, mapping",
-      "tags_json" : "[\"food\",\"food\",\" maps\",\" data\",\"food\",\" maps\",\" mapping\"]",
+      "tags" : "food,Food,maps,data,food,maps,mapping,want",
+      "tags_json" : "[\"food\",\"food\",\"maps\",\"data\",\"food\",\"maps\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "co-founder for green funding site who has user engagement skills",
-      "type" : "want",
+      "type" : null,
       "name" : "Mark",
       "organization" : "Micro Angels",
       "featured" : null,
       "social media" : "mark@microangels.org",
-      "tags" : "business,Crowd-funding, skills",
-      "tags_json" : "[\"business\",\"crowd-funding\",\" skills\"]",
+      "tags" : "business,Crowd-funding,skills,want",
+      "tags_json" : "[\"business\",\"crowd-funding\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "create yoga vegan timeshare community in tropics that is profitable",
-      "type" : "do",
+      "type" : null,
       "name" : "Mark",
       "organization" : "Micro Angels",
       "featured" : null,
       "social media" : "mark@microangels.org",
-      "tags" : "place, business,Yoga, vacation, projects, skills",
-      "tags_json" : "[\"place\",\" business\",\"yoga\",\" vacation\",\" projects\",\" skills\"]",
+      "tags" : "place,business,Yoga,vacation,projects,skills,idea",
+      "tags_json" : "[\"place\",\"business\",\"yoga\",\"vacation\",\"projects\",\"skills\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "battery technology",
-      "type" : "have",
+      "type" : null,
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
@@ -1108,7 +1108,7 @@
     {
     
       "statement" : "$5.5 million battery startup",
-      "type" : "want",
+      "type" : null,
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
@@ -1121,72 +1121,72 @@
     {
     
       "statement" : "GIS and digital earth imaging knowledge base 823 terrestrial ecoregions and 7000 cultures and permacultures, etc",
-      "type" : "do",
+      "type" : null,
       "name" : "Mark Roest",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "data, habitat,Data, maps, mapping",
-      "tags_json" : "[\"data\",\" habitat\",\"data\",\" maps\",\" mapping\"]",
+      "tags" : "data,habitat,Data,maps,mapping,idea",
+      "tags_json" : "[\"data\",\"habitat\",\"data\",\"maps\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "database skills",
-      "type" : "have",
+      "type" : null,
       "name" : "Matt",
       "organization" : "Winterroot",
       "featured" : null,
       "social media" : null,
-      "tags" : "data,Skill share, data, skills",
-      "tags_json" : "[\"data\",\"skill share\",\" data\",\" skills\"]",
+      "tags" : "data,Skill share,data,skills,have",
+      "tags_json" : "[\"data\",\"skill share\",\"data\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Building out the Wildflowers of Detroit project",
-      "type" : "do",
+      "type" : null,
       "name" : "Matt",
       "organization" : "Winterroot",
       "featured" : null,
       "social media" : null,
-      "tags" : "plants,Projects, wildflowers, app, Detroit, urban",
-      "tags_json" : "[\"plants\",\"projects\",\" wildflowers\",\" app\",\" detroit\",\" urban\"]",
+      "tags" : "plants,Projects,wildflowers,app,Detroit,urban,idea",
+      "tags_json" : "[\"plants\",\"projects\",\"wildflowers\",\"app\",\"detroit\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "scientists on the Farallon Islands",
-      "type" : "have",
+      "type" : null,
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
       "social media" : null,
-      "tags" : "place, science,Nature knowledge, citizen science",
-      "tags_json" : "[\"place\",\" science\",\"nature knowledge\",\" citizen science\"]",
+      "tags" : "place,science,Nature knowledge,citizen science,have",
+      "tags_json" : "[\"place\",\"science\",\"nature knowledge\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "bird observation databases for CA (scientific)",
-      "type" : "have",
+      "type" : null,
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
       "social media" : null,
-      "tags" : "birds, data, scientific data,Nature knowledge, data, birds, data",
-      "tags_json" : "[\"birds\",\" data\",\" scientific data\",\"nature knowledge\",\" data\",\" birds\",\" data\"]",
+      "tags" : "birds,data,scientific data,Nature knowledge,data,birds,data,have",
+      "tags_json" : "[\"birds\",\"data\",\"scientific data\",\"nature knowledge\",\"data\",\"birds\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Downscaled climate models for California",
-      "type" : "have",
+      "type" : null,
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1199,20 +1199,20 @@
     {
     
       "statement" : "workshop of science and storytellers to better communicate science to a lay audience",
-      "type" : "do",
+      "type" : null,
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling,Journalism, science communication, storytelling, education",
-      "tags_json" : "[\"storytelling\",\"journalism\",\" science communication\",\" storytelling\",\" education\"]",
+      "tags" : "storytelling,Journalism,science communication,storytelling,education,idea",
+      "tags_json" : "[\"storytelling\",\"journalism\",\"science communication\",\"storytelling\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "storytellers who can communicate complicated science",
-      "type" : "want",
+      "type" : null,
       "name" : "Michael Fitzgibbon",
       "organization" : "PRBO",
       "featured" : null,
@@ -1225,150 +1225,150 @@
     {
     
       "statement" : "understanding of federal/ national park policy",
-      "type" : "have",
+      "type" : null,
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
       "social media" : "@NPCA",
-      "tags" : "parks,Policy, politics, skill share, policy",
-      "tags_json" : "[\"parks\",\"policy\",\" politics\",\" skill share\",\" policy\"]",
+      "tags" : "parks,Policy,politics,skill share,policy,have",
+      "tags_json" : "[\"parks\",\"policy\",\"politics\",\"skill share\",\"policy\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "engage people who contribute to both political and conservation organizations",
-      "type" : "want",
+      "type" : null,
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
       "social media" : "@NPCA",
-      "tags" : "policy, philanthropy,Public relations, politics, outreach, urban",
-      "tags_json" : "[\"policy\",\" philanthropy\",\"public relations\",\" politics\",\" outreach\",\" urban\"]",
+      "tags" : "policy,philanthropy,Public relations,politics,outreach,urban,want",
+      "tags_json" : "[\"policy\",\"philanthropy\",\"public relations\",\"politics\",\"outreach\",\"urban\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "engage people who contribute to both political and conservation organizations",
-      "type" : "do",
+      "type" : null,
       "name" : "Neal Desai",
       "organization" : "National Parks Conservation Association",
       "featured" : null,
       "social media" : "@NPCA",
-      "tags" : "policy, philanthropy, urban",
-      "tags_json" : "[\"policy\",\" philanthropy\",\" urban\"]",
+      "tags" : "policy,philanthropy,urban,idea",
+      "tags_json" : "[\"policy\",\"philanthropy\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "soil mosture (3) & temp sensors (18) w/ dataloggers (6)",
-      "type" : "have",
+      "type" : null,
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "soil, sensors, data,Hardware, soil, data, citizen science",
-      "tags_json" : "[\"soil\",\" sensors\",\" data\",\"hardware\",\" soil\",\" data\",\" citizen science\"]",
+      "tags" : "soil,sensors,data,Hardware,soil,data,citizen science,have",
+      "tags_json" : "[\"soil\",\"sensors\",\"data\",\"hardware\",\"soil\",\"data\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Experimental design (to make projects sciencey)",
-      "type" : "have",
+      "type" : null,
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "design, visualization,Basic science, design, scientific method, data",
-      "tags_json" : "[\"design\",\" visualization\",\"basic science\",\" design\",\" scientific method\",\" data\"]",
+      "tags" : "design,visualization,Basic science,design,scientific method,data,have",
+      "tags_json" : "[\"design\",\"visualization\",\"basic science\",\"design\",\"scientific method\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Energy use data",
-      "type" : "want",
+      "type" : null,
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "energy,Energy, data, data",
-      "tags_json" : "[\"energy\",\"energy\",\" data\",\" data\"]",
+      "tags" : "energy,Energy,data,data,want",
+      "tags_json" : "[\"energy\",\"energy\",\"data\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "specs on stormwater & sewer systems (location & size of pipes and drains)",
-      "type" : "want",
+      "type" : null,
       "name" : "Paul Lilly",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "water, sewers, stormwater, data,Wastewater, plumbing, sewer, building codes, data",
-      "tags_json" : "[\"water\",\" sewers\",\" stormwater\",\" data\",\"wastewater\",\" plumbing\",\" sewer\",\" building codes\",\" data\"]",
+      "tags" : "water,sewers,stormwater,data,Wastewater,plumbing,sewer,building codes,data,want",
+      "tags_json" : "[\"water\",\"sewers\",\"stormwater\",\"data\",\"wastewater\",\"plumbing\",\"sewer\",\"building codes\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : "we are looking for that too! - chach, laci & anselm"
     },
     {
     
       "statement" : "Design new science ed curriculum for high school",
-      "type" : "do",
+      "type" : null,
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "kids,Education, curriculum, education",
-      "tags_json" : "[\"kids\",\"education\",\" curriculum\",\" education\"]",
+      "tags" : "kids,Education,curriculum,education,idea",
+      "tags_json" : "[\"kids\",\"education\",\"curriculum\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Make science ed videos",
-      "type" : "do",
+      "type" : null,
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling,Science communication, video, education",
-      "tags_json" : "[\"storytelling\",\"science communication\",\" video\",\" education\"]",
+      "tags" : "storytelling,Science communication,video,education,idea",
+      "tags_json" : "[\"storytelling\",\"science communication\",\"video\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "meet people that know how to communicate science through video",
-      "type" : "want",
+      "type" : null,
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling,Skill share, science communication, video, influential visual design",
-      "tags_json" : "[\"storytelling\",\"skill share\",\" science communication\",\" video\",\" influential visual design\"]",
+      "tags" : "storytelling,Skill share,science communication,video,influential visual design,want",
+      "tags_json" : "[\"storytelling\",\"skill share\",\"science communication\",\"video\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Network of academic scientists",
-      "type" : "have",
+      "type" : null,
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "academia,Universities, experts, scientists, science",
-      "tags_json" : "[\"academia\",\"universities\",\" experts\",\" scientists\",\" science\"]",
+      "tags" : "academia,Universities,experts,scientists,science,have",
+      "tags_json" : "[\"academia\",\"universities\",\"experts\",\"scientists\",\"science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Make science podcasts",
-      "type" : "do",
+      "type" : null,
       "name" : "Rich",
       "organization" : null,
       "featured" : null,
@@ -1381,7 +1381,7 @@
     {
     
       "statement" : "to use QR codes for onsite education",
-      "type" : "want",
+      "type" : null,
       "name" : "Rob Joyce",
       "organization" : "Elefant Designs",
       "featured" : null,
@@ -1394,59 +1394,59 @@
     {
     
       "statement" : "Use tech (mobile, QR codes) to enhance on-site experiences in urban green spaces",
-      "type" : "do",
+      "type" : null,
       "name" : "Rob Joyce",
       "organization" : "Elefant Designs",
       "featured" : null,
       "social media" : "pleasetouchgarden.org",
-      "tags" : "storytelling,On site education, exhibits, installations, QR CODES, urban",
-      "tags_json" : "[\"storytelling\",\"on site education\",\" exhibits\",\" installations\",\" qr codes\",\" urban\"]",
+      "tags" : "storytelling,On site education,exhibits,installations,QR CODES,urban,idea",
+      "tags_json" : "[\"storytelling\",\"on site education\",\"exhibits\",\"installations\",\"qr codes\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "lots of deforestation data",
-      "type" : "have",
+      "type" : null,
       "name" : "Robin Kraft",
       "organization" : "EcoHack",
       "featured" : null,
       "social media" : "@robinkraft",
-      "tags" : "deforestation,Data, forests, habitat loss, data",
-      "tags_json" : "[\"deforestation\",\"data\",\" forests\",\" habitat loss\",\" data\"]",
+      "tags" : "deforestation,Data,forests,habitat loss,data,have",
+      "tags_json" : "[\"deforestation\",\"data\",\"forests\",\"habitat loss\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "big data skillz",
-      "type" : "have",
+      "type" : null,
       "name" : "Robin Kraft",
       "organization" : "EcoHack",
       "featured" : null,
       "social media" : "@robinkraft",
-      "tags" : "data, developer,Skill share, data, skills",
-      "tags_json" : "[\"data\",\" developer\",\"skill share\",\" data\",\" skills\"]",
+      "tags" : "data,developer,Skill share,data,skills,have",
+      "tags_json" : "[\"data\",\"developer\",\"skill share\",\"data\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "I have free hosting for apps",
-      "type" : "have",
+      "type" : null,
       "name" : "Ryan",
       "organization" : "openshift / redhat",
       "featured" : null,
       "social media" : "@ryanj",
-      "tags" : "tech infrastructure, servers,Web hosting, web development, tech infrastructure",
-      "tags_json" : "[\"tech infrastructure\",\" servers\",\"web hosting\",\" web development\",\" tech infrastructure\"]",
+      "tags" : "tech infrastructure,servers,Web hosting,web development,tech infrastructure,have",
+      "tags_json" : "[\"tech infrastructure\",\"servers\",\"web hosting\",\"web development\",\"tech infrastructure\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "free hosting for apps",
-      "type" : "have",
+      "type" : null,
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
@@ -1459,85 +1459,85 @@
     {
     
       "statement" : "I can clean up your dirty datasets",
-      "type" : "have",
+      "type" : null,
       "name" : "Ryan J",
       "organization" : null,
       "featured" : 1,
       "social media" : "@ryanj",
-      "tags" : "tech infrastructure,Data, data",
-      "tags_json" : "[\"tech infrastructure\",\"data\",\" data\"]",
+      "tags" : "tech infrastructure,Data,data,have",
+      "tags_json" : "[\"tech infrastructure\",\"data\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Free hosting for apps",
-      "type" : "have",
+      "type" : null,
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
       "social media" : "@ryanj",
-      "tags" : "tech infrastructure,Web hosting, web development, skills",
-      "tags_json" : "[\"tech infrastructure\",\"web hosting\",\" web development\",\" skills\"]",
+      "tags" : "tech infrastructure,Web hosting,web development,skills,have",
+      "tags_json" : "[\"tech infrastructure\",\"web hosting\",\"web development\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "maps, code, data skills",
-      "type" : "have",
+      "type" : null,
       "name" : "Ryan J",
       "organization" : null,
       "featured" : null,
       "social media" : "@ryanj",
-      "tags" : "mapping, data, developer,Maps, data, skills",
-      "tags_json" : "[\"mapping\",\" data\",\" developer\",\"maps\",\" data\",\" skills\"]",
+      "tags" : "mapping,data,developer,Maps,data,skills,have",
+      "tags_json" : "[\"mapping\",\"data\",\"developer\",\"maps\",\"data\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "writer who would love to interview your org/business and share stories of your goals for effecting nature in a positive way. Biosyntropy!!",
-      "type" : "do",
+      "type" : null,
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
       "social media" : "@sabibi11",
-      "tags" : "journalism, storytelling,Journalism, story telling, crowdsourcing",
-      "tags_json" : "[\"journalism\",\" storytelling\",\"journalism\",\" story telling\",\" crowdsourcing\"]",
+      "tags" : "journalism,storytelling,Journalism,storytelling,crowdsourcing,idea",
+      "tags_json" : "[\"journalism\",\"storytelling\",\"journalism\",\"storytelling\",\"crowdsourcing\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "i am a writer connected to various networks pertaining to media, ecology, and community",
-      "type" : "have",
+      "type" : null,
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
       "social media" : "@sabib11",
-      "tags" : "journalism,Story telling, journalism, outreach, storytelling",
-      "tags_json" : "[\"journalism\",\"story telling\",\" journalism\",\" outreach\",\" storytelling\"]",
+      "tags" : "journalism,Story telling,journalism,outreach,storytelling,have",
+      "tags_json" : "[\"journalism\",\"story telling\",\"journalism\",\"outreach\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "stories for foodwebstories.com - help with biosyntropy blog",
-      "type" : "want",
+      "type" : null,
       "name" : "Sabrina",
       "organization" : null,
       "featured" : null,
       "social media" : "@sabib11",
-      "tags" : "food, journalism,Story telling, journalism, outreach, storytelling",
-      "tags_json" : "[\"food\",\" journalism\",\"story telling\",\" journalism\",\" outreach\",\" storytelling\"]",
+      "tags" : "food,journalism,Story telling,journalism,outreach,storytelling,want",
+      "tags_json" : "[\"food\",\"journalism\",\"story telling\",\"journalism\",\"outreach\",\"storytelling\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "volunteer base",
-      "type" : "have",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1550,7 +1550,7 @@
     {
     
       "statement" : "nature-loving colleagues and friends",
-      "type" : "have",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
@@ -1563,85 +1563,85 @@
     {
     
       "statement" : "greywater technologies (or greywater techmemes)",
-      "type" : "want",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "water,Water, wastewater, skill share, education",
-      "tags_json" : "[\"water\",\"water\",\" wastewater\",\" skill share\",\" education\"]",
+      "tags" : "water,Water,wastewater,skill share,education,want",
+      "tags_json" : "[\"water\",\"water\",\"wastewater\",\"skill share\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to make a series of audio interviews with creative environmenal leaders",
-      "type" : "want",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling,Story telling, audio, education",
-      "tags_json" : "[\"storytelling\",\"story telling\",\" audio\",\" education\"]",
+      "tags" : "storytelling,Story telling,audio,education,want",
+      "tags_json" : "[\"storytelling\",\"story telling\",\"audio\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "community of permaculturalists",
-      "type" : "want",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "permaculture,People, permaculture, education",
-      "tags_json" : "[\"permaculture\",\"people\",\" permaculture\",\" education\"]",
+      "tags" : "permaculture,People,permaculture,education,want",
+      "tags_json" : "[\"permaculture\",\"people\",\"permaculture\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to learn how to use technology more creatively in regards to environmental stuff",
-      "type" : "want",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "skills,Learning, education",
-      "tags_json" : "[\"skills\",\"learning\",\" education\"]",
+      "tags" : "skills,Learning,education,want",
+      "tags_json" : "[\"skills\",\"learning\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "more skills around soil building and mycelium",
-      "type" : "want",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "soil, skills,Soil, education",
-      "tags_json" : "[\"soil\",\" skills\",\"soil\",\" education\"]",
+      "tags" : "soil,skills,Soil,education,want",
+      "tags_json" : "[\"soil\",\"skills\",\"soil\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Make podcasts, short videos, creatively tell stories of people doing work around agro-ecology",
-      "type" : "do",
+      "type" : null,
       "name" : "Sarah",
       "organization" : "Golden Gate National Parks Conservancy",
       "featured" : null,
       "social media" : null,
-      "tags" : "farming, ecology,Story telling, audio, video, journalism, storytelling",
-      "tags_json" : "[\"farming\",\" ecology\",\"story telling\",\" audio\",\" video\",\" journalism\",\" storytelling\"]",
+      "tags" : "farming,ecology,Story telling,audio,video,journalism,storytelling,idea",
+      "tags_json" : "[\"farming\",\"ecology\",\"story telling\",\"audio\",\"video\",\"journalism\",\"storytelling\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "connecting to nature outdoors",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1654,7 +1654,7 @@
     {
     
       "statement" : "WETAP for iOs",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1667,7 +1667,7 @@
     {
     
       "statement" : "open source geiger ",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1680,163 +1680,163 @@
     {
     
       "statement" : "legislation against bees :)",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "policy,Bees, policy, citizen science",
-      "tags_json" : "[\"policy\",\"bees\",\" policy\",\" citizen science\"]",
+      "tags" : "policy,Bees,policy,citizen science,have",
+      "tags_json" : "[\"policy\",\"bees\",\"policy\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "knowledge of Bay Area hikes",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "trails, place,Hiking, outdoors, nature experience, citizen science",
-      "tags_json" : "[\"trails\",\" place\",\"hiking\",\" outdoors\",\" nature experience\",\" citizen science\"]",
+      "tags" : "trails,place,Hiking,outdoors,nature experience,citizen science,have",
+      "tags_json" : "[\"trails\",\"place\",\"hiking\",\"outdoors\",\"nature experience\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "(boundless) enthusiasm",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "community,Enthusiasm, energy, citizen science",
-      "tags_json" : "[\"community\",\"enthusiasm\",\" energy\",\" citizen science\"]",
+      "tags" : "community,Enthusiasm,energy,citizen science,have",
+      "tags_json" : "[\"community\",\"enthusiasm\",\"energy\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "knowledge of threatened & endangered species in CA",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "wildlife, plants,Natire knowledge, wildlife, citizen science",
-      "tags_json" : "[\"wildlife\",\" plants\",\"natire knowledge\",\" wildlife\",\" citizen science\"]",
+      "tags" : "wildlife,plants,Natire knowledge,wildlife,citizen science,have",
+      "tags_json" : "[\"wildlife\",\"plants\",\"natire knowledge\",\"wildlife\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "parabolic mic",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, equipment,Hardware, audio, citizen science",
-      "tags_json" : "[\"storytelling\",\" equipment\",\"hardware\",\" audio\",\" citizen science\"]",
+      "tags" : "storytelling,equipment,Hardware,audio,citizen science,have",
+      "tags_json" : "[\"storytelling\",\"equipment\",\"hardware\",\"audio\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "bees & beehives",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "equipment,Bees, wildlife, food, citizen science",
-      "tags_json" : "[\"equipment\",\"bees\",\" wildlife\",\" food\",\" citizen science\"]",
+      "tags" : "equipment,Bees,wildlife,food,citizen science,want",
+      "tags_json" : "[\"equipment\",\"bees\",\"wildlife\",\"food\",\"citizen science\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to be well-informed so that I can make good decisions",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education,Learning, citizen science",
-      "tags_json" : "[\"education\",\"learning\",\" citizen science\"]",
+      "tags" : "education,Learning,citizen science,want",
+      "tags_json" : "[\"education\",\"learning\",\"citizen science\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "help w/ learning how to quickly and easily & effectively disseminate info about the enviro",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, skills,Story telling, skill share, outreach, citizen science",
-      "tags_json" : "[\"storytelling\",\" skills\",\"story telling\",\" skill share\",\" outreach\",\" citizen science\"]",
+      "tags" : "storytelling,skills,Story telling,skill share,outreach,citizen science,want",
+      "tags_json" : "[\"storytelling\",\"skills\",\"story telling\",\"skill share\",\"outreach\",\"citizen science\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "install iNaturalist app",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, citizen science",
-      "tags_json" : "[\"skills\",\" citizen science\"]",
+      "tags" : "skills,citizen science,idea",
+      "tags_json" : "[\"skills\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "farming & soil education for young families",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "farming, community, education, citizen science",
-      "tags_json" : "[\"farming\",\" community\",\" education\",\" citizen science\"]",
+      "tags" : "farming,community,education,citizen science,idea",
+      "tags_json" : "[\"farming\",\"community\",\"education\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "data viz to reveal where we're at",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "mapping, citizen science",
-      "tags_json" : "[\"mapping\",\" citizen science\"]",
+      "tags" : "mapping,citizen science,idea",
+      "tags_json" : "[\"mapping\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "urban biodiversity awareness",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "urban, biodiversity, citizen science",
-      "tags_json" : "[\"urban\",\" biodiversity\",\" citizen science\"]",
+      "tags" : "urban,biodiversity,citizen science,idea",
+      "tags_json" : "[\"urban\",\"biodiversity\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "general handiness",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1849,33 +1849,33 @@
     {
     
       "statement" : "Produce Tatzoo-- an endangered species program; tatoos + species = badass fellows!",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : "Tatzoo?",
       "featured" : null,
       "social media" : null,
-      "tags" : "wildlife, community",
-      "tags_json" : "[\"wildlife\",\" community\"]",
+      "tags" : "wildlife,community,idea",
+      "tags_json" : "[\"wildlife\",\"community\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "google glasses for sea otters",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "wildlife, crowdsourcing",
-      "tags_json" : "[\"wildlife\",\" crowdsourcing\"]",
+      "tags" : "wildlife,crowdsourcing,idea",
+      "tags_json" : "[\"wildlife\",\"crowdsourcing\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "naturalist/eco social capital systems analyst",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1888,20 +1888,20 @@
     {
     
       "statement" : "to activate people into doing and making",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "community, action, crowdsourcing",
-      "tags_json" : "[\"community\",\" action\",\" crowdsourcing\"]",
+      "tags" : "community,action,crowdsourcing,want",
+      "tags_json" : "[\"community\",\"action\",\"crowdsourcing\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to live in a fully functioning ecosystem",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1914,72 +1914,72 @@
     {
     
       "statement" : "good data & project manager",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, data",
-      "tags_json" : "[\"skills\",\" data\"]",
+      "tags" : "skills,data,have",
+      "tags_json" : "[\"skills\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "access to multiple database and historical info",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, data",
-      "tags_json" : "[\"storytelling\",\" data\"]",
+      "tags" : "storytelling,data,have",
+      "tags_json" : "[\"storytelling\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "lots of info about indigenous island populations and ecosystems",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "indigenous, islands, ecosystems, data",
-      "tags_json" : "[\"indigenous\",\" islands\",\" ecosystems\",\" data\"]",
+      "tags" : "indigenous,islands,ecosystems,data,have",
+      "tags_json" : "[\"indigenous\",\"islands\",\"ecosystems\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Bird data and advanced stats",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "birds, data",
-      "tags_json" : "[\"birds\",\" data\"]",
+      "tags" : "birds,data,have",
+      "tags_json" : "[\"birds\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a data viz studio",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "visualization, data",
-      "tags_json" : "[\"visualization\",\" data\"]",
+      "tags" : "visualization,data,have",
+      "tags_json" : "[\"visualization\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "access to information ALL",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -1992,7 +1992,7 @@
     {
     
       "statement" : "wind data",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2005,33 +2005,33 @@
     {
     
       "statement" : "to tell data journalism stories of food access quality",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, storytelling, journalism, data",
-      "tags_json" : "[\"food\",\" storytelling\",\" journalism\",\" data\"]",
+      "tags" : "food,storytelling,journalism,data,want",
+      "tags_json" : "[\"food\",\"storytelling\",\"journalism\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "regional shared trails database",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "trails, data",
-      "tags_json" : "[\"trails\",\" data\"]",
+      "tags" : "trails,data,want",
+      "tags_json" : "[\"trails\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : "check out transit to trails - victoria"
     },
     {
     
       "statement" : "Access to fascinating data",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2044,72 +2044,72 @@
     {
     
       "statement" : "easy access to data for available land in urban areas for farming",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, farming, urban farming, cities, data, urban, data",
-      "tags_json" : "[\"food\",\" farming\",\" urban farming\",\" cities\",\" data\",\" urban\",\" data\"]",
+      "tags" : "food,farming,urban farming,cities,data,urban,data,want",
+      "tags_json" : "[\"food\",\"farming\",\"urban farming\",\"cities\",\"data\",\"urban\",\"data\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "connect data with engineers and designers to map stories",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, mapping, visualization, data",
-      "tags_json" : "[\"storytelling\",\" mapping\",\" visualization\",\" data\"]",
+      "tags" : "storytelling,mapping,visualization,data,idea",
+      "tags_json" : "[\"storytelling\",\"mapping\",\"visualization\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "models of the intersection of land use policy and outcomes scored on a triple bottom line",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "policy, land use, data",
-      "tags_json" : "[\"policy\",\" land use\",\" data\"]",
+      "tags" : "policy,land use,data,idea",
+      "tags_json" : "[\"policy\",\"land use\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "carbon impact in practical visual terms",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change, visualization, data",
-      "tags_json" : "[\"climate change\",\" visualization\",\" data\"]",
+      "tags" : "climate change,visualization,data,idea",
+      "tags_json" : "[\"climate change\",\"visualization\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a project showing the lifespan of islands facing X environmental pressures / disasters",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "islands, climate change, data",
-      "tags_json" : "[\"islands\",\" climate change\",\" data\"]",
+      "tags" : "islands,climate change,data,idea",
+      "tags_json" : "[\"islands\",\"climate change\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a degree in ethnography",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2122,7 +2122,7 @@
     {
     
       "statement" : "Twitter, Facebook, YouTube, Meetup",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2135,111 +2135,111 @@
     {
     
       "statement" : "help contribute data to scientists",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "citizen science, data, education",
-      "tags_json" : "[\"citizen science\",\" data\",\" education\"]",
+      "tags" : "citizen science,data,education,want",
+      "tags_json" : "[\"citizen science\",\"data\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "help indigenous communities mobilize/conserve environmental resources",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "indigenous communities, conservation, education",
-      "tags_json" : "[\"indigenous communities\",\" conservation\",\" education\"]",
+      "tags" : "indigenous communities,conservation,education,want",
+      "tags_json" : "[\"indigenous communities\",\"conservation\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "promote awareness of ocean degradation",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "ocean, awareness, education",
-      "tags_json" : "[\"ocean\",\" awareness\",\" education\"]",
+      "tags" : "ocean,awareness,education,want",
+      "tags_json" : "[\"ocean\",\"awareness\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "centralized access to good quality h20 and environmental data",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "water, education",
-      "tags_json" : "[\"water\",\" education\"]",
+      "tags" : "water,education,want",
+      "tags_json" : "[\"water\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "nodejs servers and code assistance",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "technology infrastructure, skills, education",
-      "tags_json" : "[\"technology infrastructure\",\" skills\",\" education\"]",
+      "tags" : "technology infrastructure,skills,education,want",
+      "tags_json" : "[\"technology infrastructure\",\"skills\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "web hosting & web storage",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "technology infrastructure, education",
-      "tags_json" : "[\"technology infrastructure\",\" education\"]",
+      "tags" : "technology infrastructure,education,want",
+      "tags_json" : "[\"technology infrastructure\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "education design",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "design, education",
-      "tags_json" : "[\"design\",\" education\"]",
+      "tags" : "design,education,want",
+      "tags_json" : "[\"design\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : " gamification design",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "design, education",
-      "tags_json" : "[\"design\",\" education\"]",
+      "tags" : "design,education,want",
+      "tags_json" : "[\"design\",\"education\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to bring a human element to data beyond visualization",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2252,20 +2252,20 @@
     {
     
       "statement" : "a way to help public park lovers to voice their opinions to decision makers",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "parks, policy, open space, action, education",
-      "tags_json" : "[\"parks\",\" policy\",\" open space\",\" action\",\" education\"]",
+      "tags" : "parks,policy,open space,action,education,idea",
+      "tags_json" : "[\"parks\",\"policy\",\"open space\",\"action\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "local marketing campaigns for local issues",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2278,7 +2278,7 @@
     {
     
       "statement" : "permaculture> alt energy> info systems",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2291,7 +2291,7 @@
     {
     
       "statement" : "Gamification support for volunteer web presence",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2304,124 +2304,124 @@
     {
     
       "statement" : "more outdoor excitement!!! +++!!!",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "place, field trips, influential visual design",
-      "tags_json" : "[\"place\",\" field trips\",\" influential visual design\"]",
+      "tags" : "place,field trips,influential visual design,want",
+      "tags_json" : "[\"place\",\"field trips\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "expand network to everywhere",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "community, action, influential visual design",
-      "tags_json" : "[\"community\",\" action\",\" influential visual design\"]",
+      "tags" : "community,action,influential visual design,want",
+      "tags_json" : "[\"community\",\"action\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "data visualization and design chops",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, influential visual design",
-      "tags_json" : "[\"skills\",\" influential visual design\"]",
+      "tags" : "skills,influential visual design,have",
+      "tags_json" : "[\"skills\",\"influential visual design\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a feeling for the organism",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "science, influential visual design",
-      "tags_json" : "[\"science\",\" influential visual design\"]",
+      "tags" : "science,influential visual design,have",
+      "tags_json" : "[\"science\",\"influential visual design\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "animation, video, storytelling, art, technology",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art, storytelling, influential visual design",
-      "tags_json" : "[\"art\",\" storytelling\",\" influential visual design\"]",
+      "tags" : "art,storytelling,influential visual design,have",
+      "tags_json" : "[\"art\",\"storytelling\",\"influential visual design\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "work on projects where i can learn to be nerdier (learn/get better at JS, D3, etc)",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, influential visual design",
-      "tags_json" : "[\"skills\",\" influential visual design\"]",
+      "tags" : "skills,influential visual design,idea",
+      "tags_json" : "[\"skills\",\"influential visual design\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "build a structure using biomimicry",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art, science, influential visual design",
-      "tags_json" : "[\"art\",\" science\",\" influential visual design\"]",
+      "tags" : "art,science,influential visual design,want",
+      "tags_json" : "[\"art\",\"science\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "teach enviro ed to elementary kids",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education, kids",
-      "tags_json" : "[\"education\",\" kids\"]",
+      "tags" : "education,kids,have",
+      "tags_json" : "[\"education\",\"kids\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "instill enviro values at early age",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education, kids",
-      "tags_json" : "[\"education\",\" kids\"]",
+      "tags" : "education,kids,want",
+      "tags_json" : "[\"education\",\"kids\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "tell my children bedtime stories",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2434,254 +2434,254 @@
     {
     
       "statement" : "Shared food maps",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, mapping",
-      "tags_json" : "[\"food\",\" mapping\"]",
+      "tags" : "food,mapping,want",
+      "tags_json" : "[\"food\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "I want a kit of parts to assemble and expose my data",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "data, mapping",
-      "tags_json" : "[\"data\",\" mapping\"]",
+      "tags" : "data,mapping,want",
+      "tags_json" : "[\"data\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Javascript tutelage",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,want",
+      "tags_json" : "[\"skills\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Fix my website",
-      "type" : "want",
+      "type" : null,
       "name" : "Brent Plater",
       "organization" : "wildequity.org",
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,want",
+      "tags_json" : "[\"skills\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Placeds to put air quality sensors",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "air quality, sensors, mapping",
-      "tags_json" : "[\"air quality\",\" sensors\",\" mapping\"]",
+      "tags" : "air quality,sensors,mapping,want",
+      "tags_json" : "[\"air quality\",\"sensors\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Urban foraging maps",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, urban farming, mapping",
-      "tags_json" : "[\"food\",\" urban farming\",\" mapping\"]",
+      "tags" : "food,urban farming,mapping,want",
+      "tags_json" : "[\"food\",\"urban farming\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : "see: Forage City (by Youth Radio, Oakland)"
     },
     {
     
       "statement" : "Love maps - see what drives your passion. -gardens, -sustain",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "plants, mapping",
-      "tags_json" : "[\"plants\",\" mapping\"]",
+      "tags" : "plants,mapping,want",
+      "tags_json" : "[\"plants\",\"mapping\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "online tools for mapping water resources and management decision support",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "water, data, mapping",
-      "tags_json" : "[\"water\",\" data\",\" mapping\"]",
+      "tags" : "water,data,mapping,have",
+      "tags_json" : "[\"water\",\"data\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Legal, corporate, and educational business background",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,have",
+      "tags_json" : "[\"skills\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "GIS skills",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,have",
+      "tags_json" : "[\"skills\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "contacts and expertise in water management in california",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "policy, water, mapping",
-      "tags_json" : "[\"policy\",\" water\",\" mapping\"]",
+      "tags" : "policy,water,mapping,have",
+      "tags_json" : "[\"policy\",\"water\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "open source mapping expertise",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,have",
+      "tags_json" : "[\"skills\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Construct a map of local food systems across the nation",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, mapping",
-      "tags_json" : "[\"food\",\" mapping\"]",
+      "tags" : "food,mapping,idea",
+      "tags_json" : "[\"food\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "ways to link global climate events and impacts with local audiences",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "climate change, mapping",
-      "tags_json" : "[\"climate change\",\" mapping\"]",
+      "tags" : "climate change,mapping,idea",
+      "tags_json" : "[\"climate change\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "collaborations with local environmental justice groups",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "enviro justice, mapping",
-      "tags_json" : "[\"enviro justice\",\" mapping\"]",
+      "tags" : "enviro justice,mapping,idea",
+      "tags_json" : "[\"enviro justice\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Pesticide Mapping",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "pesticides, mapping",
-      "tags_json" : "[\"pesticides\",\" mapping\"]",
+      "tags" : "pesticides,mapping,idea",
+      "tags_json" : "[\"pesticides\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Air Quality Maps",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "air quality, mapping",
-      "tags_json" : "[\"air quality\",\" mapping\"]",
+      "tags" : "air quality,mapping,idea",
+      "tags_json" : "[\"air quality\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "pigeon maps",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "birds, mapping",
-      "tags_json" : "[\"birds\",\" mapping\"]",
+      "tags" : "birds,mapping,idea",
+      "tags_json" : "[\"birds\",\"mapping\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Learn best practices for mobile and remote areas without coverage",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "mobile, remote areas, access, best practices, skills, mobile",
-      "tags_json" : "[\"mobile\",\" remote areas\",\" access\",\" best practices\",\" skills\",\" mobile\"]",
+      "tags" : "mobile,remote areas,access,best practices,skills,mobile,want",
+      "tags_json" : "[\"mobile\",\"remote areas\",\"access\",\"best practices\",\"skills\",\"mobile\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "rooftop space or garden",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2694,59 +2694,59 @@
     {
     
       "statement" : "hydroponics",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "plants, science",
-      "tags_json" : "[\"plants\",\" science\"]",
+      "tags" : "plants,science,have",
+      "tags_json" : "[\"plants\",\"science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "GIS, cloud, mobile, web, software engineering",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "GIS, web, mobile, cloud, skills",
-      "tags_json" : "[\"gis\",\" web\",\" mobile\",\" cloud\",\" skills\"]",
+      "tags" : "GIS,web,mobile,cloud,skills,have",
+      "tags_json" : "[\"gis\",\"web\",\"mobile\",\"cloud\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "marketing & communication",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "business, skills",
-      "tags_json" : "[\"business\",\" skills\"]",
+      "tags" : "business,skills,have",
+      "tags_json" : "[\"business\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "fundingmethod for green companies",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "business, skills",
-      "tags_json" : "[\"business\",\" skills\"]",
+      "tags" : "business,skills,have",
+      "tags_json" : "[\"business\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "tech skills",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2759,85 +2759,85 @@
     {
     
       "statement" : "design background",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "influential visual design, skills",
-      "tags_json" : "[\"influential visual design\",\" skills\"]",
+      "tags" : "influential visual design,skills,have",
+      "tags_json" : "[\"influential visual design\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "stats skills",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "math, skills",
-      "tags_json" : "[\"math\",\" skills\"]",
+      "tags" : "math,skills,have",
+      "tags_json" : "[\"math\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "art/craft/printmaking skills & supplies",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art, skills",
-      "tags_json" : "[\"art\",\" skills\"]",
+      "tags" : "art,skills,have",
+      "tags_json" : "[\"art\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "web & graphics design, web coder, photograher, volunteers",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "web, influential visual design, web, developer, art, skills",
-      "tags_json" : "[\"web\",\" influential visual design\",\" web\",\" developer\",\" art\",\" skills\"]",
+      "tags" : "web,influential visual design,web,developer,art,skills,have",
+      "tags_json" : "[\"web\",\"influential visual design\",\"web\",\"developer\",\"art\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "visual design, UX design, web design",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "influential visual design, UX, skills",
-      "tags_json" : "[\"influential visual design\",\" ux\",\" skills\"]",
+      "tags" : "influential visual design,UX,skills,have",
+      "tags_json" : "[\"influential visual design\",\"ux\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "access to nerds who want to write code",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "developer, skills",
-      "tags_json" : "[\"developer\",\" skills\"]",
+      "tags" : "developer,skills,have",
+      "tags_json" : "[\"developer\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "expertise in modeling complex systems",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2850,33 +2850,33 @@
     {
     
       "statement" : "mad service design skills",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "influential visual design, skills",
-      "tags_json" : "[\"influential visual design\",\" skills\"]",
+      "tags" : "influential visual design,skills,have",
+      "tags_json" : "[\"influential visual design\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to learn Javascript",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education, skills",
-      "tags_json" : "[\"education\",\" skills\"]",
+      "tags" : "education,skills,want",
+      "tags_json" : "[\"education\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "hackers",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2889,20 +2889,20 @@
     {
     
       "statement" : "to improve computer skills",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education, skills",
-      "tags_json" : "[\"education\",\" skills\"]",
+      "tags" : "education,skills,want",
+      "tags_json" : "[\"education\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "coders, designers, biologist-organizers",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2915,72 +2915,72 @@
     {
     
       "statement" : "biogeochemistry skill share",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "community, skill share, skills",
-      "tags_json" : "[\"community\",\" skill share\",\" skills\"]",
+      "tags" : "community,skill share,skills,want",
+      "tags_json" : "[\"community\",\"skill share\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "promote greater literacy w/ computers, especially for elders!",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "education, skills",
-      "tags_json" : "[\"education\",\" skills\"]",
+      "tags" : "education,skills,idea",
+      "tags_json" : "[\"education\",\"skills\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "better reach on social media",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, storytelling",
-      "tags_json" : "[\"storytelling\",\" storytelling\"]",
+      "tags" : "storytelling,storytelling,want",
+      "tags_json" : "[\"storytelling\",\"storytelling\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "thousands of artists!",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art, storytelling",
-      "tags_json" : "[\"art\",\" storytelling\"]",
+      "tags" : "art,storytelling,have",
+      "tags_json" : "[\"art\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "a solid understanding of how environmental info gets used by decision makers",
-      "type" : "have",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "policy, action, education, storytelling",
-      "tags_json" : "[\"policy\",\" action\",\" education\",\" storytelling\"]",
+      "tags" : "policy,action,education,storytelling,have",
+      "tags_json" : "[\"policy\",\"action\",\"education\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "more feedback about consumption",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -2993,7 +2993,7 @@
     {
     
       "statement" : "more options for accountability",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3006,33 +3006,33 @@
     {
     
       "statement" : "create pro-nature artist culture",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "art, storytelling",
-      "tags_json" : "[\"art\",\" storytelling\"]",
+      "tags" : "art,storytelling,idea",
+      "tags_json" : "[\"art\",\"storytelling\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "new storytelling strategies for local nature journalism",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "journalism, storytelling, storytelling",
-      "tags_json" : "[\"journalism\",\" storytelling\",\" storytelling\"]",
+      "tags" : "journalism,storytelling,storytelling,want",
+      "tags_json" : "[\"journalism\",\"storytelling\",\"storytelling\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "to tell stories",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3045,7 +3045,7 @@
     {
     
       "statement" : "Exchange for donated server/ storage capacity",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3058,20 +3058,20 @@
     {
     
       "statement" : "want to be outside",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "place, urban",
-      "tags_json" : "[\"place\",\" urban\"]",
+      "tags" : "place,urban,want",
+      "tags_json" : "[\"place\",\"urban\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "more nature in cities",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
@@ -3084,124 +3084,124 @@
     {
     
       "statement" : "encourage urban farm in & outdoors",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, urban farming, urban",
-      "tags_json" : "[\"food\",\" urban farming\",\" urban\"]",
+      "tags" : "food,urban farming,urban,idea",
+      "tags_json" : "[\"food\",\"urban farming\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "calculate and display the metabolism of the city of oakland",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "public health, urban",
-      "tags_json" : "[\"public health\",\" urban\"]",
+      "tags" : "public health,urban,idea",
+      "tags_json" : "[\"public health\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "feedback between amazon purchases and habitat destruction",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "consumption, habitat, urban",
-      "tags_json" : "[\"consumption\",\" habitat\",\" urban\"]",
+      "tags" : "consumption,habitat,urban,idea",
+      "tags_json" : "[\"consumption\",\"habitat\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "crowd-sourcing app for feral cat populations across the US",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "birds, wildlife, urban",
-      "tags_json" : "[\"birds\",\" wildlife\",\" urban\"]",
+      "tags" : "birds,wildlife,urban,idea",
+      "tags_json" : "[\"birds\",\"wildlife\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : "talk to @MaxOgen -- chach"
     },
     {
     
       "statement" : "More & better bike paths ",
-      "type" : "do",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "transit, urban",
-      "tags_json" : "[\"transit\",\" urban\"]",
+      "tags" : "transit,urban,idea",
+      "tags_json" : "[\"transit\",\"urban\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "permaculture generating enough foods for cities",
-      "type" : "want",
+      "type" : null,
       "name" : "someone",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "food, plants, urban",
-      "tags_json" : "[\"food\",\" plants\",\" urban\"]",
+      "tags" : "food,plants,urban,want",
+      "tags_json" : "[\"food\",\"plants\",\"urban\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "volunteer for birding or bioblitzs",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "bioblitz, citizen science",
-      "tags_json" : "[\"bioblitz\",\" citizen science\"]",
+      "tags" : "bioblitz,citizen science,have",
+      "tags_json" : "[\"bioblitz\",\"citizen science\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "more chances to involve kids w/ Nerds for Nature",
-      "type" : "do",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "kids, citizen science",
-      "tags_json" : "[\"kids\",\" citizen science\"]",
+      "tags" : "kids,citizen science,idea",
+      "tags_json" : "[\"kids\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "build a roadkill database app \"flatfluffy\"",
-      "type" : "do",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "data, citizen science",
-      "tags_json" : "[\"data\",\" citizen science\"]",
+      "tags" : "data,citizen science,idea",
+      "tags_json" : "[\"data\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "an electronic \"CNDDB\" entry form - maybe like fishtagger",
-      "type" : "do",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
@@ -3214,137 +3214,137 @@
     {
     
       "statement" : "collection of conservation GIS datasets updated & in one place",
-      "type" : "do",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "mapping, data",
-      "tags_json" : "[\"mapping\",\" data\"]",
+      "tags" : "mapping,data,idea",
+      "tags_json" : "[\"mapping\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "ability to teach programming",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "kids, education",
-      "tags_json" : "[\"kids\",\" education\"]",
+      "tags" : "kids,education,have",
+      "tags_json" : "[\"kids\",\"education\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "GIS and spatial expertise",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "skills, mapping",
-      "tags_json" : "[\"skills\",\" mapping\"]",
+      "tags" : "skills,mapping,have",
+      "tags_json" : "[\"skills\",\"mapping\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "teach stats",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "math, skills",
-      "tags_json" : "[\"math\",\" skills\"]",
+      "tags" : "math,skills,have",
+      "tags_json" : "[\"math\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "access to SF Bird Observatory datasets",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Citron-Pousty",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "birds, data",
-      "tags_json" : "[\"birds\",\" data\"]",
+      "tags" : "birds,data,have",
+      "tags_json" : "[\"birds\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "front end programmer to work w/ Django & Python",
-      "type" : "want",
+      "type" : null,
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "skills, developer, citizen science",
-      "tags_json" : "[\"skills\",\" developer\",\" citizen science\"]",
+      "tags" : "skills,developer,citizen science,want",
+      "tags_json" : "[\"skills\",\"developer\",\"citizen science\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Business Development experience",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "business, skills",
-      "tags_json" : "[\"business\",\" skills\"]",
+      "tags" : "business,skills,have",
+      "tags_json" : "[\"business\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "nonprofit formation & board experience",
-      "type" : "have",
+      "type" : null,
       "name" : "Steve Echtman",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "nonprofit, business, skills",
-      "tags_json" : "[\"nonprofit\",\" business\",\" skills\"]",
+      "tags" : "nonprofit,business,skills,have",
+      "tags_json" : "[\"nonprofit\",\"business\",\"skills\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "better visalization of wildlife data",
-      "type" : "want",
+      "type" : null,
       "name" : "Steven Citron-Poutsy",
       "organization" : null,
       "featured" : null,
       "social media" : "@thesteve0",
-      "tags" : "wildlife, data, influential visual design",
-      "tags_json" : "[\"wildlife\",\" data\",\" influential visual design\"]",
+      "tags" : "wildlife,data,influential visual design,want",
+      "tags_json" : "[\"wildlife\",\"data\",\"influential visual design\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "marketing & P.R. experience connections",
-      "type" : "have",
+      "type" : null,
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "storytelling, journalism, crowdsourcing",
-      "tags_json" : "[\"storytelling\",\" journalism\",\" crowdsourcing\"]",
+      "tags" : "storytelling,journalism,crowdsourcing,have",
+      "tags_json" : "[\"storytelling\",\"journalism\",\"crowdsourcing\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "technologist programmer",
-      "type" : "want",
+      "type" : null,
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3357,20 +3357,20 @@
     {
     
       "statement" : "participants to document and narrate stories about places",
-      "type" : "want",
+      "type" : null,
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "place, storytelling",
-      "tags_json" : "[\"place\",\" storytelling\"]",
+      "tags" : "place,storytelling,want",
+      "tags_json" : "[\"place\",\"storytelling\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "field trips to document and capture (digitall) stories and facts about places",
-      "type" : "do",
+      "type" : null,
       "name" : "Steven Echtman",
       "organization" : null,
       "featured" : null,
@@ -3383,72 +3383,72 @@
     {
     
       "statement" : "a mobile geo platform for audio, video, text, metadata about places",
-      "type" : "have",
+      "type" : null,
       "name" : "Steven Echtmon",
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "mobile, place, storytelling",
-      "tags_json" : "[\"mobile\",\" place\",\" storytelling\"]",
+      "tags" : "mobile,place,storytelling,have",
+      "tags_json" : "[\"mobile\",\"place\",\"storytelling\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "way to contribute even without tech skills",
-      "type" : "want",
+      "type" : null,
       "name" : "Victoria B",
       "organization" : null,
       "featured" : null,
       "social media" : "@bogdan_victoria",
-      "tags" : "community, skills",
-      "tags_json" : "[\"community\",\" skills\"]",
+      "tags" : "community,skills,want",
+      "tags_json" : "[\"community\",\"skills\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "get to zero waste by 2020",
-      "type" : "do",
+      "type" : null,
       "name" : "Zoey Kroll",
       "organization" : "SF Department of the Environment",
       "featured" : null,
       "social media" : "@edibleoffice",
-      "tags" : "waste, consumption, education",
-      "tags_json" : "[\"waste\",\" consumption\",\" education\"]",
+      "tags" : "waste,consumption,education,idea",
+      "tags_json" : "[\"waste\",\"consumption\",\"education\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "citizen bio-monitoring & aggregator mapping",
-      "type" : "do",
+      "type" : null,
       "name" : null,
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "health, citizen science",
-      "tags_json" : "[\"health\",\" citizen science\"]",
+      "tags" : "health,citizen science,idea",
+      "tags_json" : "[\"health\",\"citizen science\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "I have national park data! invasive plants, site stewardship, critters, water, trails, LIDAR",
-      "type" : "have",
+      "type" : null,
       "name" : "Michael Norelli",
       "organization" : "Golden Gate Parks Conservancy",
       "featured" : null,
       "social media" : "@neogeo360",
-      "tags" : "parks, plants, wildlife, trails, GIS, data",
-      "tags_json" : "[\"parks\",\" plants\",\" wildlife\",\" trails\",\" gis\",\" data\"]",
+      "tags" : "parks,plants,wildlife,trails,GIS,data,have",
+      "tags_json" : "[\"parks\",\"plants\",\"wildlife\",\"trails\",\"gis\",\"data\",\"have\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "I want to learn all of the buzz words coders know!",
-      "type" : "want",
+      "type" : null,
       "name" : "Michael Norelli",
       "organization" : "Golden Gate Parks Conservancy",
       "featured" : null,
@@ -3461,71 +3461,19 @@
     {
     
       "statement" : "i-naturalist California Natural Diversity Database (CNDDB) add",
-      "type" : "do",
+      "type" : null,
       "name" : null,
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "citizen science, data",
-      "tags_json" : "[\"citizen science\",\" data\"]",
+      "tags" : "citizen science,data,idea",
+      "tags_json" : "[\"citizen science\",\"data\",\"idea\"]",
       "date" : "2/21/2013",
       "reponse" : null
     },
     {
     
       "statement" : "Visualization skills for displaying climate models",
-      "type" : "want",
-      "name" : null,
-      "organization" : null,
-      "featured" : null,
-      "social media" : null,
-      "tags" : null,
-      "tags_json" : null,
-      "date" : "2/21/2013",
-      "reponse" : null
-    },
-    {
-    
-      "statement" : "visual design infographics",
-      "type" : "have",
-      "name" : null,
-      "organization" : null,
-      "featured" : null,
-      "social media" : "@kmackay",
-      "tags" : null,
-      "tags_json" : null,
-      "date" : "2/21/2013",
-      "reponse" : null
-    },
-    {
-    
-      "statement" : "more idea generating meetings! link with EcoHack and Geo MeetUp",
-      "type" : "do",
-      "name" : "Michael Norelli",
-      "organization" : "Golden Gate Parks Conservancy",
-      "featured" : null,
-      "social media" : "@neogeo360",
-      "tags" : "action, field trips, place, mapping",
-      "tags_json" : "[\"action\",\" field trips\",\" place\",\" mapping\"]",
-      "date" : "2/21/2013",
-      "reponse" : null
-    },
-    {
-    
-      "statement" : "biodiversity conservation practicioner",
-      "type" : "have",
-      "name" : null,
-      "organization" : null,
-      "featured" : null,
-      "social media" : null,
-      "tags" : "biodiversity, science, science",
-      "tags_json" : "[\"biodiversity\",\" science\",\" science\"]",
-      "date" : "2/21/2013",
-      "reponse" : null
-    },
-    {
-    
-      "statement" : "victoria taking home",
       "type" : null,
       "name" : null,
       "organization" : null,
@@ -3538,8 +3486,47 @@
     },
     {
     
+      "statement" : "visual design infographics",
+      "type" : null,
+      "name" : null,
+      "organization" : null,
+      "featured" : null,
+      "social media" : "@kmackay",
+      "tags" : null,
+      "tags_json" : null,
+      "date" : "2/21/2013",
+      "reponse" : null
+    },
+    {
+    
+      "statement" : "more idea generating meetings! link with EcoHack and Geo MeetUp",
+      "type" : null,
+      "name" : "Michael Norelli",
+      "organization" : "Golden Gate Parks Conservancy",
+      "featured" : null,
+      "social media" : "@neogeo360",
+      "tags" : "action,field trips,place,mapping,idea",
+      "tags_json" : "[\"action\",\"field trips\",\"place\",\"mapping\",\"idea\"]",
+      "date" : "2/21/2013",
+      "reponse" : null
+    },
+    {
+    
+      "statement" : "biodiversity conservation practicioner",
+      "type" : null,
+      "name" : null,
+      "organization" : null,
+      "featured" : null,
+      "social media" : null,
+      "tags" : "biodiversity,science,science,have",
+      "tags_json" : "[\"biodiversity\",\"science\",\"science\",\"have\"]",
+      "date" : "2/21/2013",
+      "reponse" : null
+    },
+    {
+    
       "statement" : "public greenspace continuing to be activated",
-      "type" : "have",
+      "type" : null,
       "name" : null,
       "organization" : "Pleasetouchgarden.org",
       "featured" : null,
@@ -3552,13 +3539,13 @@
     {
     
       "statement" : "california nature diversity database application add on for iNaturalist",
-      "type" : "want",
+      "type" : null,
       "name" : null,
       "organization" : null,
       "featured" : null,
       "social media" : null,
-      "tags" : "biodiversity, citizen science, urban",
-      "tags_json" : "[\"biodiversity\",\" citizen science\",\" urban\"]",
+      "tags" : "biodiversity,citizen science,urban,want",
+      "tags_json" : "[\"biodiversity\",\"citizen science\",\"urban\",\"want\"]",
       "date" : "2/21/2013",
       "reponse" : null
     }
