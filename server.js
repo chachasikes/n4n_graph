@@ -98,33 +98,55 @@ app.get('/tags/create', function(req, res) {
 
   var json = require('./data/data.json');
   var obj = json.rows;
+  var tagsObjectMain = {
+   "name": "flare",
+   "children": []
+  };
   var tagsObject = {};
+
   for(var i = 0; i < obj.length; i++) {
     var item = obj[i];
     var tags = JSON.parse(item.tags_json);
-    
-    
-    if(tags !== null) {
-    for(var t=0;t< tags.length; t++){
-      var tag = tags[t];
-      if(!tagsObject[tag]) {
-        tagsObject[tag] = new Array();
-      }
 
-      tagsObject[tag].push(item);
+    if(tags !== null) {
+      for(var t=0;t< tags.length; t++){
+        var tag = app.trim(tags[t]);
+        
+        if(!tagsObject[tag]) {
+          tagsObject[tag] = new Array();
+        }
+  
+        var exists =  _.contains(tagsObject[tag], item);
+        if(!exists) {
+          tagsObject[tag].push(item);
+        }
       }
     }
   }  
 
-
+  tagsObjectMain['children'].push(tagsObject); 
   var filename = 'data/tags.json';
   var stream = fs.createWriteStream(filename);
-  var content = JSON.stringify(tagsObject);
-  fs.writeFile(filename, content, function (err) {
-
-
-  });
+  var content = JSON.stringify(tagsObjectMain);
+  fs.writeFile(filename, content, function (err) {});
 });
+
+
+app.trim = function(str){
+  if(str !== undefined){
+    str = str.replace(/^\s+/, '');
+    for (var i = str.length - 1; i >= 0; i--) {
+        if (/\S/.test(str.charAt(i))) {
+            str = str.substring(0, i + 1);
+            break;
+        }
+    }
+    return str;
+    }
+    else {
+      return '';
+  }
+}
 
 
 /////////////////////////////////////////////////////////////////////////////////////////////
