@@ -14,6 +14,7 @@ var engine         = new EngineProvider();
 
 var _ = require('underscore')._;
 var async = require('async');
+var request = require('request');
 
 /////////////////////////////////////////////////////////////////////////////////////////////
 // configuration
@@ -84,6 +85,45 @@ app.post('/data', function(req, res, options){
     }
     res.send(results);
   },{}, limit);
+});
+
+app.get('/tags', function(req, res, options){
+  var json = require('./data/tags.json');
+  res.send(json);
+});
+
+
+
+app.get('/tags/create', function(req, res) {
+
+  var json = require('./data/data.json');
+  var obj = json.rows;
+  var tagsObject = {};
+  for(var i = 0; i < obj.length; i++) {
+    var item = obj[i];
+    var tags = JSON.parse(item.tags_json);
+    
+    
+    if(tags !== null) {
+    for(var t=0;t< tags.length; t++){
+      var tag = tags[t];
+      if(!tagsObject[tag]) {
+        tagsObject[tag] = new Array();
+      }
+
+      tagsObject[tag].push(item);
+      }
+    }
+  }  
+
+
+  var filename = 'data/tags.json';
+  var stream = fs.createWriteStream(filename);
+  var content = JSON.stringify(tagsObject);
+  fs.writeFile(filename, content, function (err) {
+
+
+  });
 });
 
 
